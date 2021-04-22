@@ -1,0 +1,30 @@
+.box {
+    width: 12rem;
+    height: 12rem;
+    display: inline-table;
+    box-shadow: 0 6px 9px 0 rgba(0, 0, 0, 0.15);
+}
+#statistiques_nb_coiffes {
+    background-color: #AB9468;
+}
+#statistiques_nb_ref_coiffes {
+    background-color: #d6b96a;
+}
+.number {
+    text-align: center;
+    color: white;
+    font-family: 'Righteous', cursive;
+    font-size: 3rem;
+    margin-top: 20%;
+}
+.text {
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+    color: white;
+    font-size: 1.5rem;
+    margin-top: 10%;
+}
+.marge_top {
+    margin-top: 2rem;
+}

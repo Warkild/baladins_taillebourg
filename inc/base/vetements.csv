@@ -1,0 +1,115 @@
+id,réf,nomDuCostume,epoque,couleur_dominante,couleurs_autres,type,quantite,lieu
+0,VET0,pantalon gendarmerie taille variable bleu marine,,bleu,,pantalon,11,BGEN1
+1,VET1,pantalon gendarmerie taille variable bleu avec trait noir sur le coté ,,bleu,,pantalon,8,BGEN1
+2,VET2,pull laine gendarmerie bleu marine,,bleu,blanc,pull,5,BGEN1
+3,VET3,chemise gendarmerie bleu clair ,,bleu,,haut,6,BGEN1
+4,VET4,débardeur blanc,,blanc,,haut,1,BCHA1
+5,VET5,chemise grise à carreau avec manches courtes ,,gris,,haut,1,BCHA1
+6,VET6,chemise à carreaux trop grande blanc et marron et rouge à manches longues,,marron,blanc orange,haut,1,BCHA1
+7,VET7,veste noire avec une bouton ,,noir,,haut,1,BCHA1
+8,VET8,jupe noire avec ruban à la ceinture,,noir,,jupe,1,BJU2
+9,VET9,jupe noire froissée,,noir,,jupe,1,BJU2
+10,VET10,robe longue verte foncée avec couture à carreaux,,vert,,robe,1,BRO3
+11,VET11,robe longue noire avec points blancs avec boutons devant,,noir,blanc,robe,2,BRO3
+12,VET12,robe moyenne débardeur à carreaux verte dentelle sur les bords,,gris,,robe,1,BRO3
+13,VET13,robe longue noire avec manches longues en toiles,,noir,,robe,1,BRO3
+14,VET14,veste de costume grise ,,gris,,veste,1,BVE1
+15,VET15,veste fine marron avec boutons ,,marron,,veste,1,BVE1
+16,VET16,veste verte,,vert,,veste,1,BVE2
+17,VET17,Veste longue fine grise avec ceinture ,,gris,,veste,1,BVE2
+18,VET18,veste courte noire avec boutons gris ,,noir,gris,veste,1,BVE3
+19,VET19,veste noire avec col ,,noir,,veste,1,BVE3
+20,VET20,manteau noire avec fourrure noire,,noir,,veste,1,BVE4
+21,VET21,veste longue grise ,,gris,,veste,1,BVE4
+22,VET22,veste courte noire sans fermeture,,noir,,veste,1,BVE5
+23,VET23,veste marron avec manche et col à tissu vert à rayure et boutons dorés,,marron,blanc vert,veste,1,BVE5
+24,VET24,veste couleur bleu jean courte gros boutons dorés,,bleu,or,veste,1,BVE6
+25,VET25,veste blanche avec bords noirs ,,blanc,noir,veste,1,BVE6
+26,VET26,veste noire avec boutons,,noir,,veste,1,BVE7
+27,VET27,veste bleu foncé enfant ,,bleu,or,veste,1,BTEN1
+28,VET28,chemise blanche avec haut brodé ,,blanc,,haut,1,BCHA1
+29,VET29,T-shirt à manches longues blanc délavé,,blanc,,haut,1,BCHA1
+30,VET30,chemise blanc ,,blanc,,haut,1,BCHA1
+31,VET31,chemise rouge à pois blanc ,,rouge,blanc,haut,1,BCHA1
+32,VET32,T-shirt transparent bleu à fleurs bleu,,blanc,bleu vert,haut,1,BCHA1
+33,VET33,chemise noire à rayures noires ,,noir,,haut,1,BCHA1
+34,VET34,veste en laine blanche à manches longues ,,blanc,,veste,1,BCHA1
+35,VET35,chemise blanche à motifs ,,blanc,,haut,1,BCHA1
+36,VET36,chemise de nuit blanche à fleurs ,,blanc,,haut,1,BCHA1
+37,VET37,chemise blanche à carreaux marrons manches longues ,,blanc,,haut,1,BCHA1
+38,VET38,chemise blanche transparente à broderies ,,blanc,,haut,1,BCHA1
+39,VET39,pantalon noir,,noir,,pantalon,1,BGEN1
+40,VET40,pantalon noir avec carré de tissus cousus et décousus ,,noir,vert marron jaune gris,pantalon,1,BPAN1
+41,VET41,pantalon bordeaux avec carré de tissus cousus,,marron,vert orange noir,pantalon,1,BPAN1
+42,VET42,pantalon bleu foncé avec carré de tissus cousus avec ceinture en jute,,bleu,vert marron,pantalon,1,BPAN1
+43,VET43,pantalon marron clair avec carré de tissus cousus ,,marron,bleu,pantalon,1,BPAN1
+44,VET44,pantalon bleu marine homme long élastique,,bleu,,pantalon,1,BPAN1
+45,VET45,pantalon noir,,noir,,pantalon,1,BPAN1
+46,VET46,robe blanche à pois noirs et boutons bleu devant,,blanc,noir,robe,1,BRO3
+47,VET47,chemise adulte homme marron clair,,marron,,haut,1,BCHA1
+48,VET48,chemise homme xxl à carreau bleue et blanc,,bleu,blanc,haut,1,BCHA1
+49,VET49,chemise homme couleur crème,,marron,,haut,1,BCHA1
+50,VET50,chemise homme bleu à rayures vertes avec broderie RB,,bleu,vert,haut,1,BCHA1
+51,VET51,chemise homme à carreaux bleu foncé et blanc douce,,bleu,blanc,haut,1,BCHA1
+52,VET52,chemise homme à rayures blanche et bleu,,bleu,,haut,1,BCHA1
+53,VET53,chemise à carreaux bleu ,,bleu,,haut,1,BCHA1
+54,VET54,chemise à motifs noir et gris ,,blanc,gris,haut,1,BCHA1
+55,VET55,chemise à carreaux homme bleu,,bleu,,haut,1,BCHA1
+56,VET56,chemise à motifs noir et bleu ,,bleu,,haut,1,BCHA2
+57,VET57,chemise à rayures rouge et gris ,,blanc,,haut,1,BCHA2
+58,VET58,chemise à rayures bleu clair blanc et noir ,,bleu,noir,haut,1,BCHA2
+59,VET59,chemise grise,,gris,,haut,1,BCHA2
+60,VET60,chemise à carreaux homme blanc vert ,,blanc,vert,haut,1,BCHA2
+61,VET61,chemise blanche  ,,blanc,,haut,1,BCHA2
+62,VET62,pantalon vert à carreaux bleu et rouge ,,vert,bleu rouge,pantalon,1,BPAN1
+63,VET63,pantalon gris avec traits noir sur le coté,,gris,,pantalon,1,BPAN1
+64,VET64,pantalon noir,,noir,,pantalon,1,BPAN1
+65,VET65,veste multicolore violet,,rouge,violet orange,haut,1,BCHA2
+66,VET66,chemise transparente blanche ,,blanc,,haut,1,BCHA2
+67,VET67,chemise blanche  ,,blanc,,haut,30,BCHA2
+68,VET68,chemise blanche longue ,,blanc,,haut,2,BCHA2
+69,VET69,jupe longue blanche ,,blanc,,jupe,5,BJU2
+70,VET70,jupe longue noir,,noir,,jupe,1,BJU2
+71,VET71,robe de veuve noire à carreaux,,noir,,robe,1,BRO3
+72,VET72,robe noire avec coutures à carreaux,,noir,,robe,1,BRO3
+73,VET73,jupe blanche longue,,blanc,,jupe,13,BJU3
+74,VET74,jupe courte transparente blanche,,blanc,,jupe,5,BJU3
+75,VET75,jupe blanche courte avec motifs ,,blanc,,jupe,1,BJU3
+76,VET76,jupon court blanc avec trous en bas,,blanc,,jupe,1,BJU3
+77,VET77,costume clown enfant bleu blanc rouge à pois et rayures,,bleu,rouge blanc,enfant,1,BTEN1
+78,VET78,tenue robe orpheline,,blanc,bleu,enfant,1,BTEN1
+79,VET79,chemisier robe noire écolier,,noir,,enfant,1,BTEN1
+80,VET80,blouse de maître d’école ,,bleu,,enfant,1,BTEN1
+81,VET81,shorts bleu marine associé à la marinière blanche et bleu,,bleu,,enfant,1,BTEN1
+82,VET82,short blanc associé à la marinière bleu et blanche,,blanc,,enfant,1,BTEN1
+83,VET83,marinière enfant bleu et blanche avec nœud blanc,,bleu,blanc,enfant,1,BTEN1
+84,VET84,marinière enfant blanche et bleu avec nœud bleu,,blanc,bleu,enfant,1,BTEN1
+85,VET85,pantalon en velours vert kaki,,vert,,pantalon,2,BPAN1
+86,VET86,pantalon en velours marron clair,,marron,,pantalon,1,BPAN1
+87,VET87,pantalon blanc à rayures grises ,,blanc,,pantalon,1,BPAN1
+88,VET88,pantalon jeans blanc ,,blanc,,pantalon,2,BPAN1
+89,VET89,pantalon marron noir à carreaux,,noir,,pantalon,1,BPAN1
+90,VET90,pantalon marron toile fin,,gris,,pantalon,1,BPAN1
+91,VET91,pantalon type jogging velours gris et blanc,,blanc,gris,pantalon,1,BPAN1
+92,VET92,pantalon de costume gris et noir rayures,,gris,,pantalon,2,BPAN2
+93,VET93,pantalon type velours marron vert,,vert,,pantalon,1,BPAN1
+94,VET94,pantalon de costume noir et gris à rayures,,noir,,pantalon,1,BPAN1
+95,VET95,pantalon gris,,gris,,pantalon,1,BPAN1
+96,VET96,pantalon noir bleu très foncé,,noir,,pantalon,3,BPAN1
+97,VET97,pantalon de velours gris ,,gris,,pantalon,2,BPAN1
+98,VET98,pantalon marron à rayures ,,marron,,pantalon,1,BPAN1
+99,VET99,jeans gris ,,gris,,pantalon,1,BPAN1
+100,VET100,pantalon noir,,noir,,pantalon,1,BPAN1
+101,VET101,pantalon de travail bleu ,,bleu,,pantalon,1,BPAN2
+102,VET102,chemise de travail bleu jeans,,bleu,,veste,2,BCHA2
+103,VET103,chemise bleu délavée jeans,,bleu,,veste,1,BCHA2
+104,VET104,chemise de travail bleu foncé petant avec logo CIM devant,,bleu,,veste,1,BCHA2
+105,VET105,pantalon gris foncé,,gris,,pantalon,1,BPAN2
+106,VET106,pantalon velours gris avec carré de coutures et ceintures en toile de jutes,,gris,marron jaune vert,pantalon,1,BPAN2
+107,VET107,pantalon noir à rayures grises ,,noir,,pantalon,1,BPAN2
+108,VET108,pantalon type jogging velours bleu marine et bleu,,bleu,,pantalon,1,BPAN2
+109,VET109,pantalon bleu foncé,,bleu,,pantalon,1,BPAN2
+110,VET110,pantalon velours marron ,,marron,,pantalon,1,BPAN2
+111,VET111,pantalon bleu foncé noir,,bleu,,pantalon,1,BPAN2
+112,VET112,pantalon noir de costume,,noir,,pantalon,1,BPAN2
+113,VET113,pantalon noir avec ruban sur le coté ,,noir,,pantalon,1,BPAN2

@@ -1,0 +1,110 @@
+cartons = [
+    {
+      "reference": "BCOI1",
+      "salle": "S509",
+      "nombre": 17,
+      "type": "couvre_chef"
+    },
+    {
+      "reference": "BCOI2",
+      "salle": "S509",
+      "nombre": 17,
+      "type": "couvre_chef"
+    },
+    {
+      "reference": "BCOI3",
+      "salle": "S509",
+      "nombre": 27,
+      "type": "couvre_chef"
+    },
+    {
+      "reference": "BCOI4",
+      "salle": "S509",
+      "nombre": 15,
+      "type": "couvre_chef"
+    },
+    {
+      "reference": "BCOI5",
+      "salle": "S509",
+      "nombre": 5,
+      "type": "couvre_chef"
+    },
+    {
+      "reference": "BCOI6",
+      "salle": "S509",
+      "nombre": 8,
+      "type": "couvre_chef"
+    },
+    {
+      "reference": "BCOI7",
+      "salle": "S509",
+      "nombre": 10,
+      "type": "couvre_chef"
+    },
+    {
+      "reference": "BCOI8",
+      "salle": "S509",
+      "nombre": 10,
+      "type": "couvre_chef"
+    },
+    {
+      "reference": "BCAN1",
+      "salle": "S510",
+      "nombre": 11,
+      "type": "couvre_chef"
+    },
+    {
+      "reference": "BPER1",
+      "salle": "S510",
+      "nombre": 26,
+      "type": "couvre_chef"
+    },
+    {
+      "reference": "BCHA1",
+      "salle": "S510",
+      "nombre": 20,
+      "type": "couvre_chef"
+    },
+    {
+      "reference": "BGEN2",
+      "salle": "S510",
+      "nombre": 15,
+      "type": "couvre_chef"
+    },
+    {
+      "reference": "BCD1",
+      "salle": "S510",
+      "nombre": 28,
+      "type": "couvre_chef"
+    },
+    {
+      "reference": "BCANO",
+      "salle": "S510",
+      "nombre": 60,
+      "type": "couvre_chef"
+    },
+    {
+      "reference": "BCOI10",
+      "salle": "S510",
+      "nombre": 13,
+      "type": "couvre_chef"
+    },
+    {
+      "reference": "BSAC1",
+      "salle": "S510",
+      "nombre": 7,
+      "type": "accessoire"
+    },
+    {
+      "reference": "BCOI11",
+      "salle": "S510",
+      "nombre": 28,
+      "type": "couvre_chef"
+    },
+    {
+      "reference": "BCOI12",
+      "salle": "S510",
+      "nombre": 34,
+      "type": "couvre_chef"
+    }
+  ]

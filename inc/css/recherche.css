@@ -1,0 +1,23 @@
+#resultat {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.divGeneral {
+    max-width: 10rem;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    background-color: #333740;
+    border: 2px solid #333740;
+    margin-bottom: 2rem;
+    box-shadow: 5px 5px #76bbcb;
+}
+.photo {
+    width: 10rem;
+}
+.divInfos {
+    text-decoration: none;
+    color: white;
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+}

@@ -1,0 +1,91 @@
+#navigation {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+main {
+    margin-top: 3rem;
+    margin-left: 3rem;
+    margin-right: 3rem;
+    margin-bottom: 3rem;
+}
+#nav_1 {
+    background-image: url(../../img/pictures/background-1.png);
+    background-size: cover;
+}
+#nav_2 {
+    background-image: url(../../img/pictures/background-2.png);
+    background-size: cover;
+}
+#nav_3 {
+    background-image: url(../../img/pictures/background-3.png);
+    background-size: cover;
+}
+#nav_4 {
+    background-image: url(../../img/pictures/background-4.png);
+    background-size: cover;
+}
+#nav_5 {
+    background-image: url(../../img/pictures/background-5.png);
+    background-size: cover;
+}
+#nav_6 {
+    background-image: url(../../img/pictures/background-6.png);
+    background-size: cover;
+}
+#navigation>li {
+    flex: 1 1 0;
+    margin-right: 2px;
+    margin-left: 2px;
+    margin-top: 4px;
+    min-width: 15rem;
+    box-shadow: 0 6px 9px 0 rgba(0, 0, 0, 0.15);
+}
+#navigation>li>a>p {
+    color: white;
+    font-family: 'Raleway', sans-serif;
+    font-size: 2rem;
+    text-align: center;
+    padding-top: 6rem;
+    padding-bottom: 6rem;
+}
+#navigation>li>a>p:hover {
+    transition-duration: 1s;
+    padding-top: 4rem;
+    padding-bottom: 7.8rem;
+    font-size: 2.2rem;
+    text-decoration: underline;
+}
+a{
+    text-decoration: none;
+}
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    background-color: rgb(175, 178, 184);
+    width: max-content;
+    padding: 0.4rem 1rem 0.4rem 1rem;
+    color: white;
+    font-weight: bold;
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+}
+#article {
+    display: flex;
+    padding-bottom: 2rem;
+}
+#article>div>p {
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 1.2rem;
+    text-align: justify;
+    padding-bottom: 0.8rem;
+}
+#article>div>h3 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2rem;
+    text-decoration: underline;
+    padding-bottom: 1rem;
+}
+#article>img {
+    box-shadow: 0 6px 9px 0 rgba(0, 0, 0, 0.15);
+    margin-right: 2rem;
+}

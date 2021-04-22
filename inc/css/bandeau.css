@@ -1,0 +1,17 @@
+header {
+    background-color: #333740;
+}
+#bandeau>img {
+    height: 3rem;
+    padding-top: 0.5rem;
+    padding-bottom: 0.3rem;
+}
+#bandeau {
+    display: flex;
+}
+#bandeau>h1 {
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    font-size: 2rem;
+    margin-top: 0.9rem
+}
