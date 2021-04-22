@@ -28,6 +28,44 @@ function quantite_couvre_chefs() {
 
 function cartons_couvre_chefs() {
 
+    // Création de la collection couvre_chefs
+
+    var collection_couvre_chef = []
+
+    for (var i=0; i<cartons.length; i++) {
+        if(cartons[i]['type'] == "couvre_chef") {
+            collection_couvre_chef.push(cartons[i]);
+        }
+    }
+
+    // Création div général
+
+    for (i=0;i<collection_couvre_chef.length;i++) {
+        var newDiv       = document.createElement("div");
+        newDiv.id        = "divGeneralBoxCartonsCouvreChefs" + (i);
+        newDiv.className = "divGeneralBox";
+        document.getElementById('couvre_chefs_cartons').appendChild(newDiv);
+    }
+
+    // Création infos nombre 
+
+    for (i=0;i<collection_couvre_chef.length;i++) {
+        var newDiv       = document.createElement("p");
+        newDiv.id        = "NombreBoxCartonsCouvreChefs" + (i);
+        newDiv.className = "nombreCartons";
+        newDiv.innerHTML = collection_couvre_chef[i]['nombre']
+        document.getElementById('divGeneralBoxCartonsCouvreChefs' + i).appendChild(newDiv);
+    }
+
+    // Création infos nom 
+
+    for (i=0;i<collection_couvre_chef.length;i++) {
+        var newDiv       = document.createElement("p");
+        newDiv.id        = "NombreBoxCartonsCouvreChefs" + (i);
+        newDiv.className = "nombreCartons";
+        newDiv.innerHTML = collection_couvre_chef[i]['reference']
+        document.getElementById('divGeneralBoxCartonsCouvreChefs' + i).appendChild(newDiv);
+    }
 }
 
 window.onload = init;

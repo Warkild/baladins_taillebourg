@@ -28,3 +28,13 @@
 .marge_top {
     margin-top: 2rem;
 }
+.divGeneralBox {
+    display: inline-table;
+    width: 7rem;
+    height: 7rem;
+    background-color: #e6c998;
+    margin-inline-end: 1rem;
+    margin-top: 1rem;
+    box-shadow: 0 6px 9px 0 rgba(0, 0, 0, 0.15);
+
+}

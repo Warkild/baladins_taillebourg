@@ -17,7 +17,7 @@ couvre_chef = [
   {
     "id": 1,
     "réf": "COI1",
-    "nomDuCostume": "tambourin velor vert or",
+    "nomDuCostume": "Tambourin velour vert or",
     "epoque": "XV",
     "epoque2": "",
     "sexe": "F",
@@ -32,7 +32,7 @@ couvre_chef = [
   {
     "id": 2,
     "réf": "COI2",
-    "nomDuCostume": "tambourin blanc gris",
+    "nomDuCostume": "Tambourin blanc gris",
     "epoque": "XII",
     "epoque2": "",
     "sexe": "F",
@@ -47,7 +47,7 @@ couvre_chef = [
   {
     "id": 3,
     "réf": "COI3",
-    "nomDuCostume": "couronne couleur bronze avec tissu noir et bijoux gris et or",
+    "nomDuCostume": "Couronne couleur bronze avec tissu noir et bijoux gris et or",
     "epoque": "XII",
     "epoque2": "",
     "sexe": "F",
@@ -62,7 +62,7 @@ couvre_chef = [
   {
     "id": 4,
     "réf": "COI4",
-    "nomDuCostume": "coiffe rouge avec voile et bande marron blanc",
+    "nomDuCostume": "Coiffe rouge avec voile et bande marron blanc",
     "epoque": "XII",
     "epoque2": "XV",
     "sexe": "F",
@@ -77,7 +77,7 @@ couvre_chef = [
   {
     "id": 5,
     "réf": "COI5",
-    "nomDuCostume": "Chapeau Charles VII marron croisées or",
+    "nomDuCostume": "Chapeau charles vii marron croisées or",
     "epoque": "XV",
     "epoque2": "",
     "sexe": "H",
@@ -92,7 +92,7 @@ couvre_chef = [
   {
     "id": 6,
     "réf": "COI6",
-    "nomDuCostume": "coiffe blanche avec voile et perle blanche au centre",
+    "nomDuCostume": "Coiffe blanche avec voile et perle blanche au centre",
     "epoque": "XII",
     "epoque2": "",
     "sexe": "F",
@@ -107,7 +107,7 @@ couvre_chef = [
   {
     "id": 7,
     "réf": "COI7",
-    "nomDuCostume": "coiffe jaune orange avec voile et motif triangle vert blanc",
+    "nomDuCostume": "Coiffe jaune orange avec voile et motif triangle vert blanc",
     "epoque": "XV",
     "epoque2": "",
     "sexe": "F",
@@ -152,7 +152,7 @@ couvre_chef = [
   {
     "id": 10,
     "réf": "COI10",
-    "nomDuCostume": "coiffe verte clair avec voile et broche fleur en or",
+    "nomDuCostume": "Coiffe verte clair avec voile et broche fleur en or",
     "epoque": "XV",
     "epoque2": "",
     "sexe": "F",
@@ -167,7 +167,7 @@ couvre_chef = [
   {
     "id": 11,
     "réf": "COI11",
-    "nomDuCostume": "coiffe marron et jaune avec voile  (paille a l'interieur)",
+    "nomDuCostume": "Coiffe marron et jaune avec voile  (paille a l'interieur)",
     "epoque": "XV",
     "epoque2": "",
     "sexe": "F",
@@ -182,7 +182,7 @@ couvre_chef = [
   {
     "id": 12,
     "réf": "COI12",
-    "nomDuCostume": "coiffe jaune marron avec voile et bijoux dans un triangle jaune",
+    "nomDuCostume": "Coiffe jaune marron avec voile et bijoux dans un triangle jaune",
     "epoque": "XII",
     "epoque2": "",
     "sexe": "F",
@@ -197,7 +197,7 @@ couvre_chef = [
   {
     "id": 13,
     "réf": "COI13",
-    "nomDuCostume": "Coiffe emboîtante Marie de Valois vieux rose bleu ciel",
+    "nomDuCostume": "Coiffe emboîtante marie de valois vieux rose bleu ciel",
     "epoque": "XV",
     "epoque2": "",
     "sexe": "F",
@@ -212,7 +212,7 @@ couvre_chef = [
   {
     "id": 14,
     "réf": "COI14",
-    "nomDuCostume": "coiffe bleu déteinte avec voile et collier de perle blanche autour",
+    "nomDuCostume": "Coiffe bleu déteinte avec voile et collier de perle blanche autour",
     "epoque": "XV",
     "epoque2": "",
     "sexe": "F",
@@ -257,7 +257,7 @@ couvre_chef = [
   {
     "id": 17,
     "réf": "COI17",
-    "nomDuCostume": "coiffe bleu tissu moiré avec voile et tissu bleu foncé et perles blanches",
+    "nomDuCostume": "Coiffe bleu tissu moiré avec voile et tissu bleu foncé et perles blanches",
     "epoque": "XII",
     "epoque2": "",
     "sexe": "F",
@@ -272,7 +272,7 @@ couvre_chef = [
   {
     "id": 18,
     "réf": "COI18",
-    "nomDuCostume": "coiffe rouge velours avec voile et collier de perles autour",
+    "nomDuCostume": "Coiffe rouge velours avec voile et collier de perles autour",
     "epoque": "XII",
     "epoque2": "",
     "sexe": "F",
@@ -287,7 +287,7 @@ couvre_chef = [
   {
     "id": 19,
     "réf": "COI19",
-    "nomDuCostume": "coiffe noir et verte avec voile et collier de perles rouge et bijoux dorés",
+    "nomDuCostume": "Coiffe noir et verte avec voile et collier de perles rouge et bijoux dorés",
     "epoque": "XII",
     "epoque2": "",
     "sexe": "F",
@@ -302,7 +302,7 @@ couvre_chef = [
   {
     "id": 20,
     "réf": "COI20",
-    "nomDuCostume": "coiffe bleu plissée avec voile et perles blanches au centre",
+    "nomDuCostume": "Coiffe bleu plissée avec voile et perles blanches au centre",
     "epoque": "XII",
     "epoque2": "",
     "sexe": "F",
@@ -317,7 +317,7 @@ couvre_chef = [
   {
     "id": 21,
     "réf": "COI21",
-    "nomDuCostume": "coiffe boudin rose et ruban bleu marine",
+    "nomDuCostume": "Coiffe boudin rose et ruban bleu marine",
     "epoque": "XV",
     "epoque2": "XII",
     "sexe": "F",
@@ -332,7 +332,7 @@ couvre_chef = [
   {
     "id": 22,
     "réf": "COI22",
-    "nomDuCostume": "coiffe boudin jaune creme et ruban bleu marine",
+    "nomDuCostume": "Coiffe boudin jaune creme et ruban bleu marine",
     "epoque": "XV",
     "epoque2": "XII",
     "sexe": "F",
@@ -347,7 +347,7 @@ couvre_chef = [
   {
     "id": 23,
     "réf": "COI23",
-    "nomDuCostume": "coiffe boudin jaune et ruban bleu marine",
+    "nomDuCostume": "Coiffe boudin jaune et ruban bleu marine",
     "epoque": "XV",
     "epoque2": "XII",
     "sexe": "F",
@@ -362,7 +362,7 @@ couvre_chef = [
   {
     "id": 24,
     "réf": "COI24",
-    "nomDuCostume": "coiffe type pape bleu clair et bords bleu foncé avec bijoux or au centre",
+    "nomDuCostume": "Coiffe type pape bleu clair et bords bleu foncé avec bijoux or au centre",
     "epoque": "XV",
     "epoque2": "",
     "sexe": "F",
@@ -377,7 +377,7 @@ couvre_chef = [
   {
     "id": 25,
     "réf": "COI25",
-    "nomDuCostume": "coiffe rouge bordeaux avec voile et collier de perles autour",
+    "nomDuCostume": "Coiffe rouge bordeaux avec voile et collier de perles autour",
     "epoque": "XII",
     "epoque2": "XV",
     "sexe": "F",
@@ -392,7 +392,7 @@ couvre_chef = [
   {
     "id": 26,
     "réf": "COI26",
-    "nomDuCostume": "coiffe orange centre pointu avec bandes or et bagues noirs au centre",
+    "nomDuCostume": "Coiffe orange centre pointu avec bandes or et bagues noirs au centre",
     "epoque": "XII",
     "epoque2": "",
     "sexe": "F",
@@ -407,7 +407,7 @@ couvre_chef = [
   {
     "id": 27,
     "réf": "COI27",
-    "nomDuCostume": "coiffe jaune forme Charlotte de la Trémouille avec ruban jaune et perles autour et corde attache",
+    "nomDuCostume": "Coiffe jaune forme charlotte de la trémouille avec ruban jaune et perles autour et corde attache",
     "epoque": "XVI",
     "epoque2": "",
     "sexe": "F",
@@ -422,7 +422,7 @@ couvre_chef = [
   {
     "id": 28,
     "réf": "COI28",
-    "nomDuCostume": "coiffe rouge orangé avec voile et dessus de tete rouge et fleurs",
+    "nomDuCostume": "Coiffe rouge orangé avec voile et dessus de tete rouge et fleurs",
     "epoque": "XV",
     "epoque2": "",
     "sexe": "F",
@@ -437,7 +437,7 @@ couvre_chef = [
   {
     "id": 29,
     "réf": "COI29",
-    "nomDuCostume": "coiffe marron clair panne de velours avec voile et corde marron clair et verte",
+    "nomDuCostume": "Coiffe marron clair panne de velours avec voile et corde marron clair et verte",
     "epoque": "XII",
     "epoque2": "",
     "sexe": "F",
@@ -452,7 +452,7 @@ couvre_chef = [
   {
     "id": 30,
     "réf": "COI30",
-    "nomDuCostume": "coiffe avec motif bleu et gris clair avec voile et collier de perles autour et bijou première Marie de Valois",
+    "nomDuCostume": "Coiffe avec motif bleu et gris clair avec voile et collier de perles autour et bijou première marie de valois",
     "epoque": "XV",
     "epoque2": "",
     "sexe": "F",
@@ -467,7 +467,7 @@ couvre_chef = [
   {
     "id": 31,
     "réf": "COI31",
-    "nomDuCostume": "coiffe verte et boudin vert foncé avec voile et broderie or avec bijou Marie de Valois Mariage",
+    "nomDuCostume": "Coiffe verte et boudin vert foncé avec voile et broderie or avec bijou marie de valois mariage",
     "epoque": "XV",
     "epoque2": "",
     "sexe": "F",
@@ -482,7 +482,7 @@ couvre_chef = [
   {
     "id": 32,
     "réf": "COI32",
-    "nomDuCostume": "coiffe « type bergère » Jeanne de Montmorency marron jaune et carré noir avec attache noire",
+    "nomDuCostume": "Coiffe « type bergère » jeanne de montmorency marron jaune et carré noir avec attache noire",
     "epoque": "XVI",
     "epoque2": "",
     "sexe": "F",
@@ -497,7 +497,7 @@ couvre_chef = [
   {
     "id": 33,
     "réf": "COI33",
-    "nomDuCostume": "coiffe marron glacée forme V avec broderie bleue et perles blanches avec bijoux oranges Marie de Valois",
+    "nomDuCostume": "Coiffe marron glacée forme v avec broderie bleue et perles blanches avec bijoux oranges marie de valois",
     "epoque": "XV",
     "epoque2": "",
     "sexe": "F",
@@ -512,7 +512,7 @@ couvre_chef = [
   {
     "id": 34,
     "réf": "COI34",
-    "nomDuCostume": "coiffe bleue velours avec perles blanches et bleue",
+    "nomDuCostume": "Coiffe bleue velours avec perles blanches et bleue",
     "epoque": "XII",
     "epoque2": "",
     "sexe": "F",
@@ -527,7 +527,7 @@ couvre_chef = [
   {
     "id": 35,
     "réf": "COI35",
-    "nomDuCostume": "coiffe violette claire avec voile et ruban vert et blanc avec perles et bijou au milieu",
+    "nomDuCostume": "Coiffe violette claire avec voile et ruban vert et blanc avec perles et bijou au milieu",
     "epoque": "XII",
     "epoque2": "",
     "sexe": "F",
@@ -542,7 +542,7 @@ couvre_chef = [
   {
     "id": 36,
     "réf": "COI36",
-    "nomDuCostume": "coiffe bleue foncée avec voile et ruban blanc et bijoux bleus",
+    "nomDuCostume": "Coiffe bleue foncée avec voile et ruban blanc et bijoux bleus",
     "epoque": "XII",
     "epoque2": "",
     "sexe": "F",
@@ -557,7 +557,7 @@ couvre_chef = [
   {
     "id": 37,
     "réf": "COI37",
-    "nomDuCostume": "coiffe jaune avec voile et ruban argenté et bijou argent",
+    "nomDuCostume": "Coiffe jaune avec voile et ruban argenté et bijou argent",
     "epoque": "XII",
     "epoque2": "",
     "sexe": "F",
@@ -572,7 +572,7 @@ couvre_chef = [
   {
     "id": 38,
     "réf": "COI38",
-    "nomDuCostume": "Mentonnière or panne de velour Alienor numéro 0.12",
+    "nomDuCostume": "Mentonnière or panne de velour alienor numéro 0.12",
     "epoque": "XII",
     "epoque2": "",
     "sexe": "F",
@@ -587,7 +587,7 @@ couvre_chef = [
   {
     "id": 39,
     "réf": "COI39",
-    "nomDuCostume": "coiffe beige gris avec voile et ruban marron avec perles blanches et bijou",
+    "nomDuCostume": "Coiffe beige gris avec voile et ruban marron avec perles blanches et bijou",
     "epoque": "XII",
     "epoque2": "",
     "sexe": "F",
@@ -602,7 +602,7 @@ couvre_chef = [
   {
     "id": 40,
     "réf": "COI40",
-    "nomDuCostume": "coiffe rouge avec voile et bande de couleurs bijoux au centre",
+    "nomDuCostume": "Coiffe rouge avec voile et bande de couleurs bijoux au centre",
     "epoque": "XV",
     "epoque2": "",
     "sexe": "F",
@@ -617,7 +617,7 @@ couvre_chef = [
   {
     "id": 41,
     "réf": "COI41",
-    "nomDuCostume": "coiffe homme rouge bordeaux de page avec couture violet foncé",
+    "nomDuCostume": "Coiffe homme rouge bordeaux de page avec couture violet foncé",
     "epoque": "XV",
     "epoque2": "XVI",
     "sexe": "H",
@@ -632,7 +632,7 @@ couvre_chef = [
   {
     "id": 42,
     "réf": "COI42",
-    "nomDuCostume": "coiffe jaune avec voile et bijoux violets",
+    "nomDuCostume": "Coiffe jaune avec voile et bijoux violets",
     "epoque": "XII",
     "epoque2": "",
     "sexe": "F",
@@ -647,7 +647,7 @@ couvre_chef = [
   {
     "id": 43,
     "réf": "COI43",
-    "nomDuCostume": "couronne couleur bronze avec tissu noir et perles blanches",
+    "nomDuCostume": "Couronne couleur bronze avec tissu noir et perles blanches",
     "epoque": "XII",
     "epoque2": "",
     "sexe": "F",
@@ -662,7 +662,7 @@ couvre_chef = [
   {
     "id": 44,
     "réf": "COI44",
-    "nomDuCostume": "coiffe rouge et blanc avec voile et ruban tressé autour et bijou",
+    "nomDuCostume": "Coiffe rouge et blanc avec voile et ruban tressé autour et bijou",
     "epoque": "XV",
     "epoque2": "XII",
     "sexe": "F",
@@ -677,7 +677,7 @@ couvre_chef = [
   {
     "id": 45,
     "réf": "COI45",
-    "nomDuCostume": "coiffe OR avec voile et bijoux boutons",
+    "nomDuCostume": "Coiffe or avec voile et bijoux boutons",
     "epoque": "XII",
     "epoque2": "",
     "sexe": "F",
@@ -692,7 +692,7 @@ couvre_chef = [
   {
     "id": 46,
     "réf": "COI46",
-    "nomDuCostume": "coiffe rose et broderies motif fleurs avec voile avec bijou",
+    "nomDuCostume": "Coiffe rose et broderies motif fleurs avec voile avec bijou",
     "epoque": "XV",
     "epoque2": "XII",
     "sexe": "F",
@@ -707,7 +707,7 @@ couvre_chef = [
   {
     "id": 47,
     "réf": "COI47",
-    "nomDuCostume": "coiffe gris avec voile et bandeau marron et blanc avec bijou losange et bijou",
+    "nomDuCostume": "Coiffe gris avec voile et bandeau marron et blanc avec bijou losange et bijou",
     "epoque": "XII",
     "epoque2": "XV",
     "sexe": "F",
@@ -722,7 +722,7 @@ couvre_chef = [
   {
     "id": 48,
     "réf": "COI48",
-    "nomDuCostume": "coiffe verte avec bandeau vert clair et perles orange",
+    "nomDuCostume": "Coiffe verte avec bandeau vert clair et perles orange",
     "epoque": "XII",
     "epoque2": "XV",
     "sexe": "F",
@@ -737,7 +737,7 @@ couvre_chef = [
   {
     "id": 49,
     "réf": "COI49",
-    "nomDuCostume": "coiffe marron clair avec voile et bandeau marron foncé et pièce bijou",
+    "nomDuCostume": "Coiffe marron clair avec voile et bandeau marron foncé et pièce bijou",
     "epoque": "XII",
     "epoque2": "",
     "sexe": "F",
@@ -752,7 +752,7 @@ couvre_chef = [
   {
     "id": 50,
     "réf": "COI50",
-    "nomDuCostume": "coiffe bleu foncé velours avec voile et bijou croix au centre et bijou trait sur les cotés",
+    "nomDuCostume": "Coiffe bleu foncé velours avec voile et bijou croix au centre et bijou trait sur les cotés",
     "epoque": "XII",
     "epoque2": "",
     "sexe": "F",
@@ -767,7 +767,7 @@ couvre_chef = [
   {
     "id": 51,
     "réf": "COI51",
-    "nomDuCostume": "mentonnière blanche tube",
+    "nomDuCostume": "Mentonnière blanche tube",
     "epoque": "XII",
     "epoque2": "",
     "sexe": "F",
@@ -782,7 +782,7 @@ couvre_chef = [
   {
     "id": 52,
     "réf": "COI52",
-    "nomDuCostume": "coiffe rouge avec voile et perles noires et transparentes",
+    "nomDuCostume": "Coiffe rouge avec voile et perles noires et transparentes",
     "epoque": "XII",
     "epoque2": "XV",
     "sexe": "F",
@@ -797,7 +797,7 @@ couvre_chef = [
   {
     "id": 53,
     "réf": "COI53",
-    "nomDuCostume": "coiffe bleu canard avec voile et bandeau bleu et blanc avec perles au centre",
+    "nomDuCostume": "Coiffe bleu canard avec voile et bandeau bleu et blanc avec perles au centre",
     "epoque": "XII",
     "epoque2": "",
     "sexe": "F",
@@ -812,7 +812,7 @@ couvre_chef = [
   {
     "id": 54,
     "réf": "COI54",
-    "nomDuCostume": "coiffe blanche avec ruban rose (et epingle a nourrice )",
+    "nomDuCostume": "Coiffe blanche avec ruban rose (et epingle a nourrice )",
     "epoque": "XII",
     "epoque2": "",
     "sexe": "F",
@@ -827,7 +827,7 @@ couvre_chef = [
   {
     "id": 55,
     "réf": "COI55",
-    "nomDuCostume": "mentonnière en voile à épingler",
+    "nomDuCostume": "Mentonnière en voile à épingler",
     "epoque": "XII",
     "epoque2": "",
     "sexe": "F",
@@ -857,7 +857,7 @@ couvre_chef = [
   {
     "id": 57,
     "réf": "COI57",
-    "nomDuCostume": "coiffe verte foncé avec voile et ruban vert et perles blanches",
+    "nomDuCostume": "Coiffe verte foncé avec voile et ruban vert et perles blanches",
     "epoque": "XII",
     "epoque2": "XV",
     "sexe": "F",
@@ -872,7 +872,7 @@ couvre_chef = [
   {
     "id": 58,
     "réf": "COI58",
-    "nomDuCostume": "coiffe dur en bronze avec 2 bandeaux noirs et pièce au centre et bijoux",
+    "nomDuCostume": "Coiffe dur en bronze avec 2 bandeaux noirs et pièce au centre et bijoux",
     "epoque": "XII",
     "epoque2": "",
     "sexe": "F",
@@ -887,7 +887,7 @@ couvre_chef = [
   {
     "id": 59,
     "réf": "COI59",
-    "nomDuCostume": "coiffe bleu foncé avec voile et bijou or et perles grises au centre",
+    "nomDuCostume": "Coiffe bleu foncé avec voile et bijou or et perles grises au centre",
     "epoque": "XII",
     "epoque2": "",
     "sexe": "F",
@@ -902,7 +902,7 @@ couvre_chef = [
   {
     "id": 60,
     "réf": "COI60",
-    "nomDuCostume": "coiffe bleu foncé avec voile et bandeau bleu en plus foncé et perles blanches",
+    "nomDuCostume": "Coiffe bleu foncé avec voile et bandeau bleu en plus foncé et perles blanches",
     "epoque": "XII",
     "epoque2": "",
     "sexe": "F",
@@ -917,7 +917,7 @@ couvre_chef = [
   {
     "id": 61,
     "réf": "COI61",
-    "nomDuCostume": "coiffe motifs rouges avec voile et bandeau blanc avec perles rouges dessus et bijou",
+    "nomDuCostume": "Coiffe motifs rouges avec voile et bandeau blanc avec perles rouges dessus et bijou",
     "epoque": "XII",
     "epoque2": "XV",
     "sexe": "F",
@@ -932,7 +932,7 @@ couvre_chef = [
   {
     "id": 62,
     "réf": "COI62",
-    "nomDuCostume": "coiffe blanche avec voile et bandeau bleu turquoise enroulé de collier de perle blanches et bijou",
+    "nomDuCostume": "Coiffe blanche avec voile et bandeau bleu turquoise enroulé de collier de perle blanches et bijou",
     "epoque": "XII",
     "epoque2": "",
     "sexe": "F",
@@ -947,7 +947,7 @@ couvre_chef = [
   {
     "id": 63,
     "réf": "COI63",
-    "nomDuCostume": "coiffe blanche avec voile et bandeau tissu marron et motifs avec losange blanc et or",
+    "nomDuCostume": "Coiffe blanche avec voile et bandeau tissu marron et motifs avec losange blanc et or",
     "epoque": "XII",
     "epoque2": "XV",
     "sexe": "F",
@@ -962,7 +962,7 @@ couvre_chef = [
   {
     "id": 64,
     "réf": "COI64",
-    "nomDuCostume": "coiffe violette claire avec bandeau blanc et bleu et perles blanches",
+    "nomDuCostume": "Coiffe violette claire avec bandeau blanc et bleu et perles blanches",
     "epoque": "XII",
     "epoque2": "",
     "sexe": "F",
@@ -977,7 +977,7 @@ couvre_chef = [
   {
     "id": 65,
     "réf": "COI65",
-    "nomDuCostume": "coiffe rose avec voile et collier de perles",
+    "nomDuCostume": "Coiffe rose avec voile et collier de perles",
     "epoque": "XII",
     "epoque2": "XV",
     "sexe": "F",
@@ -992,7 +992,7 @@ couvre_chef = [
   {
     "id": 66,
     "réf": "COI66",
-    "nomDuCostume": "coiffe jaune doré avec voile et bandeau motifs marrons verts blancs",
+    "nomDuCostume": "Coiffe jaune doré avec voile et bandeau motifs marrons verts blancs",
     "epoque": "XV",
     "epoque2": "XII",
     "sexe": "F",
@@ -1007,7 +1007,7 @@ couvre_chef = [
   {
     "id": 67,
     "réf": "COI67",
-    "nomDuCostume": "coiffe rayures blanches et vertes avec voile et perles bleu vert et orange",
+    "nomDuCostume": "Coiffe rayures blanches et vertes avec voile et perles bleu vert et orange",
     "epoque": "XII",
     "epoque2": "",
     "sexe": "F",
@@ -1022,7 +1022,7 @@ couvre_chef = [
   {
     "id": 68,
     "réf": "COI68",
-    "nomDuCostume": "coiffe bleu blanc avec voile et bandeau blanc avec perles et bijou doré",
+    "nomDuCostume": "Coiffe bleu blanc avec voile et bandeau blanc avec perles et bijou doré",
     "epoque": "XII",
     "epoque2": "",
     "sexe": "F",
@@ -1037,7 +1037,7 @@ couvre_chef = [
   {
     "id": 69,
     "réf": "COI69",
-    "nomDuCostume": "coiffe marron vert et bandeau blanc et jaune avec perles",
+    "nomDuCostume": "Coiffe marron vert et bandeau blanc et jaune avec perles",
     "epoque": "XII",
     "epoque2": "",
     "sexe": "F",
@@ -1052,7 +1052,7 @@ couvre_chef = [
   {
     "id": 70,
     "réf": "COI70",
-    "nomDuCostume": "coiffe bleu foncé avec voile et broderie or et cou",
+    "nomDuCostume": "Coiffe bleu foncé avec voile et broderie or et cou",
     "epoque": "XII",
     "epoque2": "",
     "sexe": "JF",
@@ -1067,7 +1067,7 @@ couvre_chef = [
   {
     "id": 71,
     "réf": "COI71",
-    "nomDuCostume": "coiffe motifs carré verts et beige avec voile et bandeau vert",
+    "nomDuCostume": "Coiffe motifs carré verts et beige avec voile et bandeau vert",
     "epoque": "XII",
     "epoque2": "",
     "sexe": "F",
@@ -1082,7 +1082,7 @@ couvre_chef = [
   {
     "id": 72,
     "réf": "COI72",
-    "nomDuCostume": "hénin pointu bleu points blancs avec voile et collier de perles",
+    "nomDuCostume": "Hénin pointu bleu points blancs avec voile et collier de perles",
     "epoque": "XII",
     "epoque2": "",
     "sexe": "F",
@@ -1097,7 +1097,7 @@ couvre_chef = [
   {
     "id": 73,
     "réf": "COI73",
-    "nomDuCostume": "coiffe noir avec fourrure forme V et broderies or et bijou or",
+    "nomDuCostume": "Coiffe noir avec fourrure forme v et broderies or et bijou or",
     "epoque": "XV",
     "epoque2": "",
     "sexe": "F",
@@ -1127,7 +1127,7 @@ couvre_chef = [
   {
     "id": 75,
     "réf": "COI75",
-    "nomDuCostume": "Hénin modèle fée blanc test jamais fini avec voile ETAT DOUTEUX",
+    "nomDuCostume": "Hénin modèle fée blanc test jamais fini avec voile etat douteux",
     "epoque": "XII",
     "epoque2": "",
     "sexe": "F",
@@ -1157,7 +1157,7 @@ couvre_chef = [
   {
     "id": 77,
     "réf": "COI77",
-    "nomDuCostume": "boudin homme rouge bordeau et voile noir",
+    "nomDuCostume": "Boudin homme rouge bordeau et voile noir",
     "epoque": "XII",
     "epoque2": "XV",
     "sexe": "H",
@@ -1172,7 +1172,7 @@ couvre_chef = [
   {
     "id": 78,
     "réf": "COI78",
-    "nomDuCostume": "boudin homme vert foncé et voile noir",
+    "nomDuCostume": "Boudin homme vert foncé et voile noir",
     "epoque": "XII",
     "epoque2": "XV",
     "sexe": "H",
@@ -1187,7 +1187,7 @@ couvre_chef = [
   {
     "id": 79,
     "réf": "COI79",
-    "nomDuCostume": "boudin homme gris motifs jaune et voile jaune",
+    "nomDuCostume": "Boudin homme gris motifs jaune et voile jaune",
     "epoque": "XII",
     "epoque2": "XV",
     "sexe": "H",
@@ -1202,7 +1202,7 @@ couvre_chef = [
   {
     "id": 80,
     "réf": "COI80",
-    "nomDuCostume": "boudin homme noir avec voile vert foncé",
+    "nomDuCostume": "Boudin homme noir avec voile vert foncé",
     "epoque": "XII",
     "epoque2": "XV",
     "sexe": "H",
@@ -1217,7 +1217,7 @@ couvre_chef = [
   {
     "id": 81,
     "réf": "COI81",
-    "nomDuCostume": "boudin homme orange avec voile orange",
+    "nomDuCostume": "Boudin homme orange avec voile orange",
     "epoque": "XII",
     "epoque2": "XV",
     "sexe": "H",
@@ -1232,7 +1232,7 @@ couvre_chef = [
   {
     "id": 82,
     "réf": "COI82",
-    "nomDuCostume": "boudin homme noir et motifs rouge doré avec voile noir et doré et tour de cou Saladin (costume arabe)",
+    "nomDuCostume": "Boudin homme noir et motifs rouge doré avec voile noir et doré et tour de cou saladin (costume arabe)",
     "epoque": "XII",
     "epoque2": "",
     "sexe": "H",
@@ -1247,7 +1247,7 @@ couvre_chef = [
   {
     "id": 83,
     "réf": "COI83",
-    "nomDuCostume": "boudin homme noir avec voile noir",
+    "nomDuCostume": "Boudin homme noir avec voile noir",
     "epoque": "XII",
     "epoque2": "XV",
     "sexe": "H",
@@ -1262,7 +1262,7 @@ couvre_chef = [
   {
     "id": 84,
     "réf": "COI84",
-    "nomDuCostume": "boudin homme rouge et motifs jaune avec voile meme tissu",
+    "nomDuCostume": "Boudin homme rouge et motifs jaune avec voile meme tissu",
     "epoque": "XII",
     "epoque2": "XV",
     "sexe": "H",
@@ -1277,7 +1277,7 @@ couvre_chef = [
   {
     "id": 85,
     "réf": "COI85",
-    "nomDuCostume": "couronne Richard cœur de Lion effet or",
+    "nomDuCostume": "Couronne richard cœur de lion effet or",
     "epoque": "XII",
     "epoque2": "",
     "sexe": "H",
@@ -1292,7 +1292,7 @@ couvre_chef = [
   {
     "id": 86,
     "réf": "COI86",
-    "nomDuCostume": "boudin homme noir avec voile noir et bijou",
+    "nomDuCostume": "Boudin homme noir avec voile noir et bijou",
     "epoque": "XII",
     "epoque2": "XV",
     "sexe": "H",
@@ -1307,7 +1307,7 @@ couvre_chef = [
   {
     "id": 87,
     "réf": "COI87",
-    "nomDuCostume": "boudin homme jaune brodé avec voile jaune brodé",
+    "nomDuCostume": "Boudin homme jaune brodé avec voile jaune brodé",
     "epoque": "XII",
     "epoque2": "XV",
     "sexe": "H",
@@ -1322,7 +1322,7 @@ couvre_chef = [
   {
     "id": 88,
     "réf": "COI88",
-    "nomDuCostume": "boudin homme rouge et noir avec voile noir",
+    "nomDuCostume": "Boudin homme rouge et noir avec voile noir",
     "epoque": "XII",
     "epoque2": "XV",
     "sexe": "H",
@@ -1337,7 +1337,7 @@ couvre_chef = [
   {
     "id": 89,
     "réf": "COI89",
-    "nomDuCostume": "boudin homme noir avec voile noir et bleu",
+    "nomDuCostume": "Boudin homme noir avec voile noir et bleu",
     "epoque": "XII",
     "epoque2": "XV",
     "sexe": "H",
@@ -1352,7 +1352,7 @@ couvre_chef = [
   {
     "id": 90,
     "réf": "COI90",
-    "nomDuCostume": "boudin homme rouge avec voile rouge foncé",
+    "nomDuCostume": "Boudin homme rouge avec voile rouge foncé",
     "epoque": "XII",
     "epoque2": "XV",
     "sexe": "H",
@@ -1367,7 +1367,7 @@ couvre_chef = [
   {
     "id": 91,
     "réf": "COI91",
-    "nomDuCostume": "boudin homme rouge avec voile même tissu",
+    "nomDuCostume": "Boudin homme rouge avec voile même tissu",
     "epoque": "XII",
     "epoque2": "XV",
     "sexe": "H",
@@ -1382,7 +1382,7 @@ couvre_chef = [
   {
     "id": 92,
     "réf": "COI92",
-    "nomDuCostume": "boudin homme orange avec voile meme tissu",
+    "nomDuCostume": "Boudin homme orange avec voile meme tissu",
     "epoque": "XII",
     "epoque2": "XV",
     "sexe": "H",
@@ -1397,7 +1397,7 @@ couvre_chef = [
   {
     "id": 93,
     "réf": "COI93",
-    "nomDuCostume": "Chapeau Prince de Condé  vert de gris avec ruban blanc",
+    "nomDuCostume": "Chapeau prince de condé  vert de gris avec ruban blanc",
     "epoque": "XVI",
     "epoque2": "",
     "sexe": "H",
@@ -1412,7 +1412,7 @@ couvre_chef = [
   {
     "id": 94,
     "réf": "COI94",
-    "nomDuCostume": "boudin homme rouge avec voile rouge et blanc",
+    "nomDuCostume": "Boudin homme rouge avec voile rouge et blanc",
     "epoque": "XII",
     "epoque2": "XV",
     "sexe": "H",
@@ -1442,7 +1442,7 @@ couvre_chef = [
   {
     "id": 96,
     "réf": "COI96",
-    "nomDuCostume": "chapeau noir fourrure",
+    "nomDuCostume": "Chapeau noir fourrure",
     "epoque": "toutes",
     "epoque2": "",
     "sexe": "M",
@@ -1457,7 +1457,7 @@ couvre_chef = [
   {
     "id": 97,
     "réf": "COI97",
-    "nomDuCostume": "coiffe marron avec coutures blanches forme carré",
+    "nomDuCostume": "Coiffe marron avec coutures blanches forme carré",
     "epoque": "XII",
     "epoque2": "",
     "sexe": "H",
@@ -1472,7 +1472,7 @@ couvre_chef = [
   {
     "id": 98,
     "réf": "COI98",
-    "nomDuCostume": "chapeau bleu foncé avec ruban doré",
+    "nomDuCostume": "Chapeau bleu foncé avec ruban doré",
     "epoque": "XV",
     "epoque2": "",
     "sexe": "H",
@@ -1487,7 +1487,7 @@ couvre_chef = [
   {
     "id": 99,
     "réf": "COI99",
-    "nomDuCostume": "foulard noir et doré",
+    "nomDuCostume": "Foulard noir et doré",
     "epoque": "",
     "epoque2": "",
     "sexe": "",
@@ -1517,7 +1517,7 @@ couvre_chef = [
   {
     "id": 101,
     "réf": "COI101",
-    "nomDuCostume": "coiffe russe fourrure noir",
+    "nomDuCostume": "Coiffe russe fourrure noir",
     "epoque": "toutes",
     "epoque2": "",
     "sexe": "M",
@@ -1547,7 +1547,7 @@ couvre_chef = [
   {
     "id": 103,
     "réf": "COI103",
-    "nomDuCostume": "cagoule noire avec visière verte de bourreau ou  marionnettiste",
+    "nomDuCostume": "Cagoule noire avec visière verte de bourreau ou  marionnettiste",
     "epoque": "",
     "epoque2": "",
     "sexe": "",
@@ -1562,7 +1562,7 @@ couvre_chef = [
   {
     "id": 104,
     "réf": "COI104",
-    "nomDuCostume": "chapeau noir avec élastique",
+    "nomDuCostume": "Chapeau noir avec élastique",
     "epoque": "19eme",
     "epoque2": "",
     "sexe": "F",
@@ -1577,7 +1577,7 @@ couvre_chef = [
   {
     "id": 105,
     "réf": "COI105",
-    "nomDuCostume": "chapeau rouge en laine",
+    "nomDuCostume": "Chapeau rouge en laine",
     "epoque": "19eme",
     "epoque2": 1950,
     "sexe": "F",
@@ -1607,7 +1607,7 @@ couvre_chef = [
   {
     "id": 107,
     "réf": "COI107",
-    "nomDuCostume": "chapeau marron femme béret avec élastique",
+    "nomDuCostume": "Chapeau marron femme béret avec élastique",
     "epoque": 1950,
     "epoque2": 1,
     "sexe": "F",
@@ -1622,7 +1622,7 @@ couvre_chef = [
   {
     "id": 108,
     "réf": "COI108",
-    "nomDuCostume": "chapeau noir avec élastique et boutons noir",
+    "nomDuCostume": "Chapeau noir avec élastique et boutons noir",
     "epoque": 1950,
     "epoque2": "",
     "sexe": "F",
@@ -1637,7 +1637,7 @@ couvre_chef = [
   {
     "id": 109,
     "réf": "COI109",
-    "nomDuCostume": "furet ou renard sur le cou",
+    "nomDuCostume": "Furet ou renard sur le cou",
     "epoque": "19eme",
     "epoque2": "",
     "sexe": "F",
@@ -1652,7 +1652,7 @@ couvre_chef = [
   {
     "id": 110,
     "réf": "COI110",
-    "nomDuCostume": "serre tête mariage",
+    "nomDuCostume": "Serre tête mariage",
     "epoque": "19eme",
     "epoque2": 1950,
     "sexe": "F",
@@ -1667,7 +1667,7 @@ couvre_chef = [
   {
     "id": 111,
     "réf": "COI111",
-    "nomDuCostume": "chapeau russe noir",
+    "nomDuCostume": "Chapeau russe noir",
     "epoque": "19eme",
     "epoque2": 1950,
     "sexe": "M",
@@ -1682,7 +1682,7 @@ couvre_chef = [
   {
     "id": 112,
     "réf": "COI112",
-    "nomDuCostume": "chapeau femme noir avec ruban blanc avec élastique",
+    "nomDuCostume": "Chapeau femme noir avec ruban blanc avec élastique",
     "epoque": "19eme",
     "epoque2": 1950,
     "sexe": "F",
@@ -1697,7 +1697,7 @@ couvre_chef = [
   {
     "id": 113,
     "réf": "COI113",
-    "nomDuCostume": "chapeau paille avec fleur et élastique orange",
+    "nomDuCostume": "Chapeau paille avec fleur et élastique orange",
     "epoque": 1950,
     "epoque2": "",
     "sexe": "F",
@@ -1712,7 +1712,7 @@ couvre_chef = [
   {
     "id": 114,
     "réf": "COI114",
-    "nomDuCostume": "serre tête plume d’oie",
+    "nomDuCostume": "Serre tête plume d’oie",
     "epoque": "19eme",
     "epoque2": 1950,
     "sexe": "F",
@@ -1727,7 +1727,7 @@ couvre_chef = [
   {
     "id": 115,
     "réf": "COI115",
-    "nomDuCostume": "chapeau beige rigide avec bijoux doré avec élastique",
+    "nomDuCostume": "Chapeau beige rigide avec bijoux doré avec élastique",
     "epoque": "19eme",
     "epoque2": 1950,
     "sexe": "F",
@@ -1742,7 +1742,7 @@ couvre_chef = [
   {
     "id": 116,
     "réf": "COI116",
-    "nomDuCostume": "chapeau paille multicolore type chinois avec ruban élastique avec point rouge",
+    "nomDuCostume": "Chapeau paille multicolore type chinois avec ruban élastique avec point rouge",
     "epoque": 1950,
     "epoque2": "",
     "sexe": "F",
@@ -1757,7 +1757,7 @@ couvre_chef = [
   {
     "id": 117,
     "réf": "COI117",
-    "nomDuCostume": "chapeau noir russe rond avec et sans élastique",
+    "nomDuCostume": "Chapeau noir russe rond avec et sans élastique",
     "epoque": "19eme",
     "epoque2": 1950,
     "sexe": "M",
@@ -1787,7 +1787,7 @@ couvre_chef = [
   {
     "id": 119,
     "réf": "COI119",
-    "nomDuCostume": "chapeau noir femme avec nœud et élastique",
+    "nomDuCostume": "Chapeau noir femme avec nœud et élastique",
     "epoque": 1950,
     "epoque2": "",
     "sexe": "F",
@@ -1802,7 +1802,7 @@ couvre_chef = [
   {
     "id": 120,
     "réf": "COI120",
-    "nomDuCostume": "chapeau beige blanc avec élastique",
+    "nomDuCostume": "Chapeau beige blanc avec élastique",
     "epoque": 1950,
     "epoque2": "",
     "sexe": "F",
@@ -1817,7 +1817,7 @@ couvre_chef = [
   {
     "id": 121,
     "réf": "COI121",
-    "nomDuCostume": "chapeau paille blanc et noir avec nœud a pois noir avec élastique",
+    "nomDuCostume": "Chapeau paille blanc et noir avec nœud a pois noir avec élastique",
     "epoque": "19eme",
     "epoque2": 1950,
     "sexe": "F",
@@ -1832,7 +1832,7 @@ couvre_chef = [
   {
     "id": 122,
     "réf": "COI122",
-    "nomDuCostume": "béret beige",
+    "nomDuCostume": "Béret beige",
     "epoque": 1950,
     "epoque2": "",
     "sexe": "F",
@@ -1847,7 +1847,7 @@ couvre_chef = [
   {
     "id": 123,
     "réf": "COI123",
-    "nomDuCostume": "chapeau paille beige avec ruban avec élastique",
+    "nomDuCostume": "Chapeau paille beige avec ruban avec élastique",
     "epoque": 1950,
     "epoque2": "",
     "sexe": "F",
@@ -1862,7 +1862,7 @@ couvre_chef = [
   {
     "id": 124,
     "réf": "COI124",
-    "nomDuCostume": "chapeau poil angora rouge bordeaux",
+    "nomDuCostume": "Chapeau poil angora rouge bordeaux",
     "epoque": 1950,
     "epoque2": "",
     "sexe": "F",
@@ -1877,7 +1877,7 @@ couvre_chef = [
   {
     "id": 125,
     "réf": "COI125",
-    "nomDuCostume": "chapeau femme blanc",
+    "nomDuCostume": "Chapeau femme blanc",
     "epoque": 1950,
     "epoque2": "",
     "sexe": "F",
@@ -1892,7 +1892,7 @@ couvre_chef = [
   {
     "id": 126,
     "réf": "COI126",
-    "nomDuCostume": "chapeau cancan ruban jaune chapeau noir avec fleur rouge",
+    "nomDuCostume": "Chapeau cancan ruban jaune chapeau noir avec fleur rouge",
     "epoque": "19eme",
     "epoque2": "",
     "sexe": "F",
@@ -1907,7 +1907,7 @@ couvre_chef = [
   {
     "id": 127,
     "réf": "COI127",
-    "nomDuCostume": "chapeau cancan ruban bleu clair chapeau noir jaune bleu foncé rouge",
+    "nomDuCostume": "Chapeau cancan ruban bleu clair chapeau noir jaune bleu foncé rouge",
     "epoque": "19eme",
     "epoque2": "",
     "sexe": "F",
@@ -1922,7 +1922,7 @@ couvre_chef = [
   {
     "id": 128,
     "réf": "COI128",
-    "nomDuCostume": "chapeau cancan ruban bleu foncé noir blanc et fleur bleu",
+    "nomDuCostume": "Chapeau cancan ruban bleu foncé noir blanc et fleur bleu",
     "epoque": "19eme",
     "epoque2": "",
     "sexe": "F",
@@ -1937,7 +1937,7 @@ couvre_chef = [
   {
     "id": 129,
     "réf": "COI129",
-    "nomDuCostume": "chapeau cancan ruban jaune chapeau noir et jaune blanc",
+    "nomDuCostume": "Chapeau cancan ruban jaune chapeau noir et jaune blanc",
     "epoque": "19eme",
     "epoque2": "",
     "sexe": "F",
@@ -1952,7 +1952,7 @@ couvre_chef = [
   {
     "id": 130,
     "réf": "COI130",
-    "nomDuCostume": "chapeau cancan ruban bleu clair chapeau noir bleu rouge blanche",
+    "nomDuCostume": "Chapeau cancan ruban bleu clair chapeau noir bleu rouge blanche",
     "epoque": "19eme",
     "epoque2": "",
     "sexe": "F",
@@ -1967,7 +1967,7 @@ couvre_chef = [
   {
     "id": 131,
     "réf": "COI131",
-    "nomDuCostume": "chapeau cancan ruban bleu foncé et chapeau noir bleu foncé blanc et fleur jaune",
+    "nomDuCostume": "Chapeau cancan ruban bleu foncé et chapeau noir bleu foncé blanc et fleur jaune",
     "epoque": "19eme",
     "epoque2": "",
     "sexe": "F",
@@ -1982,7 +1982,7 @@ couvre_chef = [
   {
     "id": 132,
     "réf": "COI132",
-    "nomDuCostume": "chapeau cancan ruban rouge chapeau noir et rouge avec fleur",
+    "nomDuCostume": "Chapeau cancan ruban rouge chapeau noir et rouge avec fleur",
     "epoque": "19eme",
     "epoque2": "",
     "sexe": "F",
@@ -1997,7 +1997,7 @@ couvre_chef = [
   {
     "id": 133,
     "réf": "COI133",
-    "nomDuCostume": "chapeau cancan ruban bleu foncé avec chapeau noir et bleu foncé avec fleurs rouge et blanches",
+    "nomDuCostume": "Chapeau cancan ruban bleu foncé avec chapeau noir et bleu foncé avec fleurs rouge et blanches",
     "epoque": "19eme",
     "epoque2": "",
     "sexe": "F",
@@ -2012,7 +2012,7 @@ couvre_chef = [
   {
     "id": 134,
     "réf": "COI134",
-    "nomDuCostume": "chapeau cancan ruban rouge chapeau noir et rouge bleu avec fleur blanche",
+    "nomDuCostume": "Chapeau cancan ruban rouge chapeau noir et rouge bleu avec fleur blanche",
     "epoque": "19eme",
     "epoque2": "",
     "sexe": "F",
@@ -2027,7 +2027,7 @@ couvre_chef = [
   {
     "id": 135,
     "réf": "COI135",
-    "nomDuCostume": "chapeau cancan ruban jaune chapeau noir et jaune avec fleur blanche",
+    "nomDuCostume": "Chapeau cancan ruban jaune chapeau noir et jaune avec fleur blanche",
     "epoque": "19eme",
     "epoque2": "",
     "sexe": "F",
@@ -2042,7 +2042,7 @@ couvre_chef = [
   {
     "id": 136,
     "réf": "COI136",
-    "nomDuCostume": "chapeau cancan ruban bleu clair chapeau noir bleu clair rouge avec fleurs bleu et blanches",
+    "nomDuCostume": "Chapeau cancan ruban bleu clair chapeau noir bleu clair rouge avec fleurs bleu et blanches",
     "epoque": "19eme",
     "epoque2": "",
     "sexe": "F",
@@ -2057,7 +2057,7 @@ couvre_chef = [
   {
     "id": 137,
     "réf": "COI137",
-    "nomDuCostume": "perruque cheveux noirs mi long",
+    "nomDuCostume": "Perruque cheveux noirs mi long",
     "epoque": "toutes",
     "epoque2": "",
     "sexe": "M",
@@ -2072,7 +2072,7 @@ couvre_chef = [
   {
     "id": 138,
     "réf": "COI138",
-    "nomDuCostume": "perruque hommes des cavernes marron long avec barbe marron",
+    "nomDuCostume": "Perruque hommes des cavernes marron long avec barbe marron",
     "epoque": "toutes",
     "epoque2": "",
     "sexe": "M",
@@ -2087,7 +2087,7 @@ couvre_chef = [
   {
     "id": 139,
     "réf": "COI139",
-    "nomDuCostume": "perruque cheveux marrons longs bouclés",
+    "nomDuCostume": "Perruque cheveux marrons longs bouclés",
     "epoque": "toutes",
     "epoque2": "",
     "sexe": "M",
@@ -2102,7 +2102,7 @@ couvre_chef = [
   {
     "id": 140,
     "réf": "COI140",
-    "nomDuCostume": "perruque cheveux noirs frisé courts",
+    "nomDuCostume": "Perruque cheveux noirs frisé courts",
     "epoque": "toutes",
     "epoque2": "",
     "sexe": "M",
@@ -2117,7 +2117,7 @@ couvre_chef = [
   {
     "id": 141,
     "réf": "COI141",
-    "nomDuCostume": "perruque cheveux roux longs bouclés",
+    "nomDuCostume": "Perruque cheveux roux longs bouclés",
     "epoque": "toutes",
     "epoque2": "",
     "sexe": "M",
@@ -2132,7 +2132,7 @@ couvre_chef = [
   {
     "id": 142,
     "réf": "COI142",
-    "nomDuCostume": "barbe rousse longue",
+    "nomDuCostume": "Barbe rousse longue",
     "epoque": "toutes",
     "epoque2": "",
     "sexe": "M",
@@ -2147,7 +2147,7 @@ couvre_chef = [
   {
     "id": 143,
     "réf": "COI143",
-    "nomDuCostume": "barbe brune longue",
+    "nomDuCostume": "Barbe brune longue",
     "epoque": "toutes",
     "epoque2": "",
     "sexe": "M",
@@ -2162,7 +2162,7 @@ couvre_chef = [
   {
     "id": 144,
     "réf": "COI144",
-    "nomDuCostume": "perruque cheveux marrons mi-longs lisses",
+    "nomDuCostume": "Perruque cheveux marrons mi-longs lisses",
     "epoque": "toutes",
     "epoque2": "",
     "sexe": "M",
@@ -2177,7 +2177,7 @@ couvre_chef = [
   {
     "id": 145,
     "réf": "COI145",
-    "nomDuCostume": "perruque hommes des cavernes noirs longs sale",
+    "nomDuCostume": "Perruque hommes des cavernes noirs longs sale",
     "epoque": "toutes",
     "epoque2": "",
     "sexe": "M",
@@ -2192,7 +2192,7 @@ couvre_chef = [
   {
     "id": 146,
     "réf": "COI146",
-    "nomDuCostume": "perruque cheveux blonds courts",
+    "nomDuCostume": "Perruque cheveux blonds courts",
     "epoque": "toutes",
     "epoque2": "",
     "sexe": "M",
@@ -2207,7 +2207,7 @@ couvre_chef = [
   {
     "id": 147,
     "réf": "COI147",
-    "nomDuCostume": "perruque mortisia sorcière noir avec mèches blanches longs",
+    "nomDuCostume": "Perruque mortisia sorcière noir avec mèches blanches longs",
     "epoque": "toutes",
     "epoque2": "",
     "sexe": "M",
@@ -2222,7 +2222,7 @@ couvre_chef = [
   {
     "id": 148,
     "réf": "COI148",
-    "nomDuCostume": "barbe noire longue",
+    "nomDuCostume": "Barbe noire longue",
     "epoque": "toutes",
     "epoque2": "",
     "sexe": "M",
@@ -2237,7 +2237,7 @@ couvre_chef = [
   {
     "id": 149,
     "réf": "COI149",
-    "nomDuCostume": "perruque cheveux noirs longs derrières et courts devant",
+    "nomDuCostume": "Perruque cheveux noirs longs derrières et courts devant",
     "epoque": "toutes",
     "epoque2": "",
     "sexe": "M",
@@ -2252,7 +2252,7 @@ couvre_chef = [
   {
     "id": 150,
     "réf": "COI150",
-    "nomDuCostume": "perruque cheveux blancs type louis 16 révolution",
+    "nomDuCostume": "Perruque cheveux blancs type louis 16 révolution",
     "epoque": "toutes",
     "epoque2": "",
     "sexe": "M",
@@ -2267,7 +2267,7 @@ couvre_chef = [
   {
     "id": 151,
     "réf": "COI151",
-    "nomDuCostume": "perruque cheveux blonds court lisses",
+    "nomDuCostume": "Perruque cheveux blonds court lisses",
     "epoque": "toutes",
     "epoque2": "",
     "sexe": "M",
@@ -2282,7 +2282,7 @@ couvre_chef = [
   {
     "id": 152,
     "réf": "COI152",
-    "nomDuCostume": "perruque cheveux blonds brun court bouclés",
+    "nomDuCostume": "Perruque cheveux blonds brun court bouclés",
     "epoque": "toutes",
     "epoque2": "",
     "sexe": "M",
@@ -2297,7 +2297,7 @@ couvre_chef = [
   {
     "id": 153,
     "réf": "COI153",
-    "nomDuCostume": "perruque cheveux brun foncé courts lisses",
+    "nomDuCostume": "Perruque cheveux brun foncé courts lisses",
     "epoque": "toutes",
     "epoque2": "",
     "sexe": "M",
@@ -2312,7 +2312,7 @@ couvre_chef = [
   {
     "id": 154,
     "réf": "COI154",
-    "nomDuCostume": "ensemble druide cheveux et barbe blancs et longs",
+    "nomDuCostume": "Ensemble druide cheveux et barbe blancs et longs",
     "epoque": "toutes",
     "epoque2": "",
     "sexe": "M",
@@ -2327,7 +2327,7 @@ couvre_chef = [
   {
     "id": 155,
     "réf": "COI155",
-    "nomDuCostume": "chapeau marron russe",
+    "nomDuCostume": "Chapeau marron russe",
     "epoque": "toutes",
     "epoque2": "",
     "sexe": "M",
@@ -2342,7 +2342,7 @@ couvre_chef = [
   {
     "id": 156,
     "réf": "COI156",
-    "nomDuCostume": "chapeau gavroche avec perruque marron",
+    "nomDuCostume": "Chapeau gavroche avec perruque marron",
     "epoque": "19eme",
     "epoque2": 1950,
     "sexe": "H",
@@ -2357,7 +2357,7 @@ couvre_chef = [
   {
     "id": 157,
     "réf": "COI157",
-    "nomDuCostume": "casquette ancienne grise à carreaux",
+    "nomDuCostume": "Casquette ancienne grise à carreaux",
     "epoque": "19eme",
     "epoque2": 1950,
     "sexe": "H",
@@ -2387,7 +2387,7 @@ couvre_chef = [
   {
     "id": 159,
     "réf": "COI159",
-    "nomDuCostume": "casquette ancienne marron clair avec un bouton à la visière",
+    "nomDuCostume": "Casquette ancienne marron clair avec un bouton à la visière",
     "epoque": "",
     "epoque2": "",
     "sexe": "",
@@ -2402,7 +2402,7 @@ couvre_chef = [
   {
     "id": 160,
     "réf": "COI160",
-    "nomDuCostume": "casquette marron foncé",
+    "nomDuCostume": "Casquette marron foncé",
     "epoque": "",
     "epoque2": "",
     "sexe": "",
@@ -2417,7 +2417,7 @@ couvre_chef = [
   {
     "id": 161,
     "réf": "COI161",
-    "nomDuCostume": "beret gris clair",
+    "nomDuCostume": "Beret gris clair",
     "epoque": "",
     "epoque2": "",
     "sexe": "",
@@ -2432,7 +2432,7 @@ couvre_chef = [
   {
     "id": 162,
     "réf": "COI162",
-    "nomDuCostume": "moumoutte de neige noir avec visière",
+    "nomDuCostume": "Moumoutte de neige noir avec visière",
     "epoque": "",
     "epoque2": "",
     "sexe": "",
@@ -2447,7 +2447,7 @@ couvre_chef = [
   {
     "id": 163,
     "réf": "COI163",
-    "nomDuCostume": "bonnet femme beige",
+    "nomDuCostume": "Bonnet femme beige",
     "epoque": "",
     "epoque2": "",
     "sexe": "",
@@ -2462,7 +2462,7 @@ couvre_chef = [
   {
     "id": 164,
     "réf": "COI164",
-    "nomDuCostume": "chapeau vert foncé ruban marron",
+    "nomDuCostume": "Chapeau vert foncé ruban marron",
     "epoque": "",
     "epoque2": "",
     "sexe": "",
@@ -2477,7 +2477,7 @@ couvre_chef = [
   {
     "id": 165,
     "réf": "COI165",
-    "nomDuCostume": "casquette police PTT bleu foncé",
+    "nomDuCostume": "Casquette police ptt bleu foncé",
     "epoque": "",
     "epoque2": "",
     "sexe": "",
@@ -2492,7 +2492,7 @@ couvre_chef = [
   {
     "id": 166,
     "réf": "COI166",
-    "nomDuCostume": "beret gris foncé à carreaux",
+    "nomDuCostume": "Beret gris foncé à carreaux",
     "epoque": "",
     "epoque2": "",
     "sexe": "",
@@ -2507,7 +2507,7 @@ couvre_chef = [
   {
     "id": 167,
     "réf": "COI167",
-    "nomDuCostume": "beret basque bleu foncé",
+    "nomDuCostume": "Beret basque bleu foncé",
     "epoque": "",
     "epoque2": "",
     "sexe": "",
@@ -2522,7 +2522,7 @@ couvre_chef = [
   {
     "id": 168,
     "réf": "COI168",
-    "nomDuCostume": "beret basque bleu foncé grand",
+    "nomDuCostume": "Beret basque bleu foncé grand",
     "epoque": "",
     "epoque2": "",
     "sexe": "",
@@ -2537,7 +2537,7 @@ couvre_chef = [
   {
     "id": 169,
     "réf": "COI169",
-    "nomDuCostume": "chapeau bleu foncé avec élastique",
+    "nomDuCostume": "Chapeau bleu foncé avec élastique",
     "epoque": "",
     "epoque2": "",
     "sexe": "",
@@ -2552,7 +2552,7 @@ couvre_chef = [
   {
     "id": 170,
     "réf": "COI170",
-    "nomDuCostume": "chapeau police bleu et rouge",
+    "nomDuCostume": "Chapeau police bleu et rouge",
     "epoque": "",
     "epoque2": "",
     "sexe": "",
@@ -2567,7 +2567,7 @@ couvre_chef = [
   {
     "id": 171,
     "réf": "COI171",
-    "nomDuCostume": "beret beige marron",
+    "nomDuCostume": "Beret beige marron",
     "epoque": "",
     "epoque2": "",
     "sexe": "",
@@ -2582,7 +2582,7 @@ couvre_chef = [
   {
     "id": 172,
     "réf": "COI172",
-    "nomDuCostume": "chapeau type marine bleu foncé",
+    "nomDuCostume": "Chapeau type marine bleu foncé",
     "epoque": "",
     "epoque2": "",
     "sexe": "",
@@ -2597,7 +2597,7 @@ couvre_chef = [
   {
     "id": 173,
     "réf": "COI173",
-    "nomDuCostume": "casquette marron foncé",
+    "nomDuCostume": "Casquette marron foncé",
     "epoque": "",
     "epoque2": "",
     "sexe": "",
@@ -2612,7 +2612,7 @@ couvre_chef = [
   {
     "id": 174,
     "réf": "COI174",
-    "nomDuCostume": "chapeau fourrure noir avec ruban noir",
+    "nomDuCostume": "Chapeau fourrure noir avec ruban noir",
     "epoque": "",
     "epoque2": "",
     "sexe": "",
@@ -2627,7 +2627,7 @@ couvre_chef = [
   {
     "id": 175,
     "réf": "COI175",
-    "nomDuCostume": "beret bleu foncé à carreaux",
+    "nomDuCostume": "Beret bleu foncé à carreaux",
     "epoque": "",
     "epoque2": "",
     "sexe": "",
@@ -2642,7 +2642,7 @@ couvre_chef = [
   {
     "id": 176,
     "réf": "COI176",
-    "nomDuCostume": "chapeau femme enterrement noir avec filet et ruban et élastique",
+    "nomDuCostume": "Chapeau femme enterrement noir avec filet et ruban et élastique",
     "epoque": "",
     "epoque2": "",
     "sexe": "",
@@ -2657,7 +2657,7 @@ couvre_chef = [
   {
     "id": 177,
     "réf": "COI177",
-    "nomDuCostume": "chapeau noir étrange",
+    "nomDuCostume": "Chapeau noir étrange",
     "epoque": "",
     "epoque2": "",
     "sexe": "",
@@ -2672,7 +2672,7 @@ couvre_chef = [
   {
     "id": 178,
     "réf": "COI178",
-    "nomDuCostume": "beret marron beige avec bouton à la visière",
+    "nomDuCostume": "Beret marron beige avec bouton à la visière",
     "epoque": "",
     "epoque2": "",
     "sexe": "",
@@ -2687,7 +2687,7 @@ couvre_chef = [
   {
     "id": 179,
     "réf": "COI179",
-    "nomDuCostume": "beret basque noir",
+    "nomDuCostume": "Beret basque noir",
     "epoque": "",
     "epoque2": "",
     "sexe": "",
@@ -2702,7 +2702,7 @@ couvre_chef = [
   {
     "id": 180,
     "réf": "COI180",
-    "nomDuCostume": "beret blanc avec bouton sur la visière",
+    "nomDuCostume": "Beret blanc avec bouton sur la visière",
     "epoque": "",
     "epoque2": "",
     "sexe": "",
@@ -2717,7 +2717,7 @@ couvre_chef = [
   {
     "id": 181,
     "réf": "COI181",
-    "nomDuCostume": "beret gris foncé avec bouton à la visière",
+    "nomDuCostume": "Beret gris foncé avec bouton à la visière",
     "epoque": "",
     "epoque2": "",
     "sexe": "",
@@ -2732,7 +2732,7 @@ couvre_chef = [
   {
     "id": 182,
     "réf": "COI182",
-    "nomDuCostume": "beret beige bleu blanc à carreaux avec bouton",
+    "nomDuCostume": "Beret beige bleu blanc à carreaux avec bouton",
     "epoque": "",
     "epoque2": "",
     "sexe": "",
@@ -2747,7 +2747,7 @@ couvre_chef = [
   {
     "id": 183,
     "réf": "COI183",
-    "nomDuCostume": "beret gris à carreaux",
+    "nomDuCostume": "Beret gris à carreaux",
     "epoque": "",
     "epoque2": "",
     "sexe": "",
@@ -2762,7 +2762,7 @@ couvre_chef = [
   {
     "id": 184,
     "réf": "COI184",
-    "nomDuCostume": "beret gris en laine",
+    "nomDuCostume": "Beret gris en laine",
     "epoque": "",
     "epoque2": "",
     "sexe": "",
@@ -2777,7 +2777,7 @@ couvre_chef = [
   {
     "id": 185,
     "réf": "COI185",
-    "nomDuCostume": "beret basque noir grand",
+    "nomDuCostume": "Beret basque noir grand",
     "epoque": "",
     "epoque2": "",
     "sexe": "",
@@ -2792,7 +2792,7 @@ couvre_chef = [
   {
     "id": 186,
     "réf": "COI186",
-    "nomDuCostume": "beret beige vert avec bouton",
+    "nomDuCostume": "Beret beige vert avec bouton",
     "epoque": "",
     "epoque2": "",
     "sexe": "",
@@ -2807,7 +2807,7 @@ couvre_chef = [
   {
     "id": 187,
     "réf": "COI187",
-    "nomDuCostume": "beret marron avec bouton",
+    "nomDuCostume": "Beret marron avec bouton",
     "epoque": "",
     "epoque2": "",
     "sexe": "",
@@ -2822,7 +2822,7 @@ couvre_chef = [
   {
     "id": 188,
     "réf": "COI188",
-    "nomDuCostume": "beret vert kaki",
+    "nomDuCostume": "Beret vert kaki",
     "epoque": "",
     "epoque2": "",
     "sexe": "",
@@ -2837,7 +2837,7 @@ couvre_chef = [
   {
     "id": 189,
     "réf": "COI189",
-    "nomDuCostume": "beret laine marron gris noir avec bouton",
+    "nomDuCostume": "Beret laine marron gris noir avec bouton",
     "epoque": "",
     "epoque2": "",
     "sexe": "",
@@ -2852,7 +2852,7 @@ couvre_chef = [
   {
     "id": 190,
     "réf": "COI190",
-    "nomDuCostume": "beret basque bleu foncé",
+    "nomDuCostume": "Beret basque bleu foncé",
     "epoque": "",
     "epoque2": "",
     "sexe": "",
@@ -2867,7 +2867,7 @@ couvre_chef = [
   {
     "id": 191,
     "réf": "COI191",
-    "nomDuCostume": "chapeau paille beige et bleu avec fleurs",
+    "nomDuCostume": "Chapeau paille beige et bleu avec fleurs",
     "epoque": "",
     "epoque2": "",
     "sexe": "",
@@ -2882,7 +2882,7 @@ couvre_chef = [
   {
     "id": 192,
     "réf": "COI192",
-    "nomDuCostume": "chapeau paille beige et noir avec fleurs",
+    "nomDuCostume": "Chapeau paille beige et noir avec fleurs",
     "epoque": "",
     "epoque2": "",
     "sexe": "",
@@ -2897,7 +2897,7 @@ couvre_chef = [
   {
     "id": 193,
     "réf": "COI193",
-    "nomDuCostume": "chapeau paille beige et vert avec fleurs",
+    "nomDuCostume": "Chapeau paille beige et vert avec fleurs",
     "epoque": "",
     "epoque2": "",
     "sexe": "",
@@ -2912,7 +2912,7 @@ couvre_chef = [
   {
     "id": 194,
     "réf": "COI194",
-    "nomDuCostume": "chapeau paille avec ruban jaune et fleurs multicolores",
+    "nomDuCostume": "Chapeau paille avec ruban jaune et fleurs multicolores",
     "epoque": "",
     "epoque2": "",
     "sexe": "",
@@ -2927,7 +2927,7 @@ couvre_chef = [
   {
     "id": 195,
     "réf": "COI195",
-    "nomDuCostume": "chapeau paille beige et noir violet",
+    "nomDuCostume": "Chapeau paille beige et noir violet",
     "epoque": "",
     "epoque2": "",
     "sexe": "",
@@ -2942,7 +2942,7 @@ couvre_chef = [
   {
     "id": 196,
     "réf": "COI196",
-    "nomDuCostume": "chapeau paille avec ruban jaune",
+    "nomDuCostume": "Chapeau paille avec ruban jaune",
     "epoque": "",
     "epoque2": "",
     "sexe": "",
@@ -2957,7 +2957,7 @@ couvre_chef = [
   {
     "id": 197,
     "réf": "COI197",
-    "nomDuCostume": "chapeau paille beige et bleu avec citrons",
+    "nomDuCostume": "Chapeau paille beige et bleu avec citrons",
     "epoque": "",
     "epoque2": "",
     "sexe": "",
@@ -2972,7 +2972,7 @@ couvre_chef = [
   {
     "id": 198,
     "réf": "COI198",
-    "nomDuCostume": "chapeau paille noir avec fleur en tissu et filet blanche",
+    "nomDuCostume": "Chapeau paille noir avec fleur en tissu et filet blanche",
     "epoque": "",
     "epoque2": "",
     "sexe": "",
@@ -2987,7 +2987,7 @@ couvre_chef = [
   {
     "id": 199,
     "réf": "COI199",
-    "nomDuCostume": "chapeau noir avec traine noir enterrement",
+    "nomDuCostume": "Chapeau noir avec traine noir enterrement",
     "epoque": "",
     "epoque2": "",
     "sexe": "",
@@ -3002,7 +3002,7 @@ couvre_chef = [
   {
     "id": 200,
     "réf": "COI200",
-    "nomDuCostume": "chapeau paille noir  avec rubans noir et blanc",
+    "nomDuCostume": "Chapeau paille noir  avec rubans noir et blanc",
     "epoque": "",
     "epoque2": "",
     "sexe": "",
@@ -3017,7 +3017,7 @@ couvre_chef = [
   {
     "id": 201,
     "réf": "COI201",
-    "nomDuCostume": "chapeau paille rouge",
+    "nomDuCostume": "Chapeau paille rouge",
     "epoque": "",
     "epoque2": "",
     "sexe": "",
@@ -3032,7 +3032,7 @@ couvre_chef = [
   {
     "id": 202,
     "réf": "COI202",
-    "nomDuCostume": "chapeau paille beige sans décor",
+    "nomDuCostume": "Chapeau paille beige sans décor",
     "epoque": "",
     "epoque2": "",
     "sexe": "",
@@ -3047,7 +3047,7 @@ couvre_chef = [
   {
     "id": 203,
     "réf": "COI203",
-    "nomDuCostume": "chapeau paille beige et rouge à fleurs avec bandeau rouge à fleur",
+    "nomDuCostume": "Chapeau paille beige et rouge à fleurs avec bandeau rouge à fleur",
     "epoque": "",
     "epoque2": "",
     "sexe": "",
@@ -3062,7 +3062,7 @@ couvre_chef = [
   {
     "id": 204,
     "réf": "COI204",
-    "nomDuCostume": "chapeau paille beige et multicolore avec bandeau vert clair",
+    "nomDuCostume": "Chapeau paille beige et multicolore avec bandeau vert clair",
     "epoque": "",
     "epoque2": "",
     "sexe": "",
@@ -3077,7 +3077,7 @@ couvre_chef = [
   {
     "id": 205,
     "réf": "COI205",
-    "nomDuCostume": "chapeau paille avec bandeau noir gris violet",
+    "nomDuCostume": "Chapeau paille avec bandeau noir gris violet",
     "epoque": "",
     "epoque2": "",
     "sexe": "",
@@ -3092,7 +3092,7 @@ couvre_chef = [
   {
     "id": 206,
     "réf": "COI206",
-    "nomDuCostume": "chapeau paille beige et bleu vert avec fleurs et bonbons",
+    "nomDuCostume": "Chapeau paille beige et bleu vert avec fleurs et bonbons",
     "epoque": "",
     "epoque2": "",
     "sexe": "",
@@ -3107,7 +3107,7 @@ couvre_chef = [
   {
     "id": 207,
     "réf": "COI207",
-    "nomDuCostume": "chapeau paille beige recouvert de filet noir et ruban rouge bordeaux",
+    "nomDuCostume": "Chapeau paille beige recouvert de filet noir et ruban rouge bordeaux",
     "epoque": "",
     "epoque2": "",
     "sexe": "",
@@ -3122,7 +3122,7 @@ couvre_chef = [
   {
     "id": 208,
     "réf": "COI208",
-    "nomDuCostume": "chapeau paille beige avec ruban marron et à fleurs",
+    "nomDuCostume": "Chapeau paille beige avec ruban marron et à fleurs",
     "epoque": "",
     "epoque2": "",
     "sexe": "",
@@ -3137,7 +3137,7 @@ couvre_chef = [
   {
     "id": 209,
     "réf": "COI209",
-    "nomDuCostume": "chapeau paille beige avec ruban vert et blanc",
+    "nomDuCostume": "Chapeau paille beige avec ruban vert et blanc",
     "epoque": "",
     "epoque2": "",
     "sexe": "",
@@ -3152,7 +3152,7 @@ couvre_chef = [
   {
     "id": 210,
     "réf": "COI210",
-    "nomDuCostume": "chapeau paille recouvert de gris et marron élégant",
+    "nomDuCostume": "Chapeau paille recouvert de gris et marron élégant",
     "epoque": "",
     "epoque2": "",
     "sexe": "",
@@ -3167,7 +3167,7 @@ couvre_chef = [
   {
     "id": 211,
     "réf": "COI211",
-    "nomDuCostume": "képi gendarme bleu",
+    "nomDuCostume": "Képi gendarme bleu",
     "epoque": "",
     "epoque2": "",
     "sexe": "",
@@ -3182,7 +3182,7 @@ couvre_chef = [
   {
     "id": 212,
     "réf": "COI212",
-    "nomDuCostume": "képi gendarme gradé noir et or",
+    "nomDuCostume": "Képi gendarme gradé noir et or",
     "epoque": "",
     "epoque2": "",
     "sexe": "",
@@ -3197,7 +3197,7 @@ couvre_chef = [
   {
     "id": 213,
     "réf": "COI213",
-    "nomDuCostume": "képi gendarme gradé rouge et or",
+    "nomDuCostume": "Képi gendarme gradé rouge et or",
     "epoque": "",
     "epoque2": "",
     "sexe": "",
@@ -3212,7 +3212,7 @@ couvre_chef = [
   {
     "id": 214,
     "réf": "COI214",
-    "nomDuCostume": "képi gendarme noir et bleu foncé souple",
+    "nomDuCostume": "Képi gendarme noir et bleu foncé souple",
     "epoque": "",
     "epoque2": "",
     "sexe": "",
@@ -3227,7 +3227,7 @@ couvre_chef = [
   {
     "id": 215,
     "réf": "COI215",
-    "nomDuCostume": "coiffe femme avec nœud bleu vert (LOCALISATION A CONFIRMER)",
+    "nomDuCostume": "Coiffe femme avec nœud bleu vert",
     "epoque": "",
     "epoque2": "",
     "sexe": "",
@@ -3242,7 +3242,7 @@ couvre_chef = [
   {
     "id": 216,
     "réf": "COI216",
-    "nomDuCostume": "chapeau homme avec ruban gris foncé",
+    "nomDuCostume": "Chapeau homme avec ruban gris foncé",
     "epoque": "",
     "epoque2": "",
     "sexe": "",
@@ -3257,7 +3257,7 @@ couvre_chef = [
   {
     "id": 217,
     "réf": "COI217",
-    "nomDuCostume": "chapeau femme fourrure et tissu marron",
+    "nomDuCostume": "Chapeau femme fourrure et tissu marron",
     "epoque": "",
     "epoque2": "",
     "sexe": "",
@@ -3272,7 +3272,7 @@ couvre_chef = [
   {
     "id": 218,
     "réf": "COI218",
-    "nomDuCostume": "coiffe femme noire avec élastique",
+    "nomDuCostume": "Coiffe femme noire avec élastique",
     "epoque": "",
     "epoque2": "",
     "sexe": "",
@@ -3287,7 +3287,7 @@ couvre_chef = [
   {
     "id": 219,
     "réf": "COI219",
-    "nomDuCostume": "coiffe fourrure marron avec bouton devant",
+    "nomDuCostume": "Coiffe fourrure marron avec bouton devant",
     "epoque": "",
     "epoque2": "",
     "sexe": "",
@@ -3302,7 +3302,7 @@ couvre_chef = [
   {
     "id": 220,
     "réf": "COI220",
-    "nomDuCostume": "coiffe femme blanche avec élastique et bouton et décoration sur le coté",
+    "nomDuCostume": "Coiffe femme blanche avec élastique et bouton et décoration sur le coté",
     "epoque": "",
     "epoque2": "",
     "sexe": "",
@@ -3317,7 +3317,7 @@ couvre_chef = [
   {
     "id": 221,
     "réf": "COI221",
-    "nomDuCostume": "chapeau femme bleu marine avec ruban bleu foncé",
+    "nomDuCostume": "Chapeau femme bleu marine avec ruban bleu foncé",
     "epoque": "",
     "epoque2": "",
     "sexe": "",
@@ -3332,7 +3332,7 @@ couvre_chef = [
   {
     "id": 222,
     "réf": "COI222",
-    "nomDuCostume": "coiffe à trou noir",
+    "nomDuCostume": "Coiffe à trou noir",
     "epoque": "",
     "epoque2": "",
     "sexe": "",
@@ -3347,7 +3347,7 @@ couvre_chef = [
   {
     "id": 223,
     "réf": "COI223",
-    "nomDuCostume": "chapeau femme fourrure noir",
+    "nomDuCostume": "Chapeau femme fourrure noir",
     "epoque": "",
     "epoque2": "",
     "sexe": "",
@@ -3362,7 +3362,7 @@ couvre_chef = [
   {
     "id": 224,
     "réf": "COI224",
-    "nomDuCostume": "coiffe de chasse homme marron type beret avec élastique",
+    "nomDuCostume": "Coiffe de chasse homme marron type beret avec élastique",
     "epoque": "",
     "epoque2": "",
     "sexe": "",
@@ -3377,7 +3377,7 @@ couvre_chef = [
   {
     "id": 225,
     "réf": "COI225",
-    "nomDuCostume": "coiffe homme type russe vert kaki",
+    "nomDuCostume": "Coiffe homme type russe vert kaki",
     "epoque": "",
     "epoque2": "",
     "sexe": "",
@@ -3392,7 +3392,7 @@ couvre_chef = [
   {
     "id": 226,
     "réf": "COI226",
-    "nomDuCostume": "casquette homme noir avec élastique",
+    "nomDuCostume": "Casquette homme noir avec élastique",
     "epoque": "",
     "epoque2": "",
     "sexe": "",
@@ -3407,7 +3407,7 @@ couvre_chef = [
   {
     "id": 227,
     "réf": "COI227",
-    "nomDuCostume": "chapeau femme fin noir et petit",
+    "nomDuCostume": "Chapeau femme fin noir et petit",
     "epoque": "",
     "epoque2": "",
     "sexe": "",
@@ -3422,7 +3422,7 @@ couvre_chef = [
   {
     "id": 228,
     "réf": "COI228",
-    "nomDuCostume": "chapeau femme bleu élavé avec ruban bleu clair",
+    "nomDuCostume": "Chapeau femme bleu élavé avec ruban bleu clair",
     "epoque": "",
     "epoque2": "",
     "sexe": "",
@@ -3437,7 +3437,7 @@ couvre_chef = [
   {
     "id": 229,
     "réf": "COI229",
-    "nomDuCostume": "chapeau noir bords remontés",
+    "nomDuCostume": "Chapeau noir bords remontés",
     "epoque": "",
     "epoque2": "",
     "sexe": "",
@@ -3452,7 +3452,7 @@ couvre_chef = [
   {
     "id": 230,
     "réf": "COI230",
-    "nomDuCostume": "chapeau noir bord remontés élastique cassé",
+    "nomDuCostume": "Chapeau noir bord remontés élastique cassé",
     "epoque": "",
     "epoque2": "",
     "sexe": "",
@@ -3467,7 +3467,7 @@ couvre_chef = [
   {
     "id": 231,
     "réf": "COI231",
-    "nomDuCostume": "animal mort marron",
+    "nomDuCostume": "Animal mort marron",
     "epoque": "",
     "epoque2": "",
     "sexe": "",
@@ -3482,7 +3482,7 @@ couvre_chef = [
   {
     "id": 232,
     "réf": "COI232",
-    "nomDuCostume": "chapeau femme rond en laine marron",
+    "nomDuCostume": "Chapeau femme rond en laine marron",
     "epoque": "",
     "epoque2": "",
     "sexe": "",
@@ -3497,7 +3497,7 @@ couvre_chef = [
   {
     "id": 233,
     "réf": "COI233",
-    "nomDuCostume": "beret femme noir",
+    "nomDuCostume": "Beret femme noir",
     "epoque": "",
     "epoque2": "",
     "sexe": "",
@@ -3512,7 +3512,7 @@ couvre_chef = [
   {
     "id": 234,
     "réf": "COI234",
-    "nomDuCostume": "beret homme gris",
+    "nomDuCostume": "Beret homme gris",
     "epoque": "",
     "epoque2": "",
     "sexe": "",
@@ -3527,7 +3527,7 @@ couvre_chef = [
   {
     "id": 235,
     "réf": "COI235",
-    "nomDuCostume": "chapeau femme marron clair avec nœud marron devant",
+    "nomDuCostume": "Chapeau femme marron clair avec nœud marron devant",
     "epoque": "",
     "epoque2": "",
     "sexe": "",
@@ -3542,7 +3542,7 @@ couvre_chef = [
   {
     "id": 236,
     "réf": "COI236",
-    "nomDuCostume": "chapeau marron classique type cow-boy",
+    "nomDuCostume": "Chapeau marron classique type cow-boy",
     "epoque": "",
     "epoque2": "",
     "sexe": "",
@@ -3557,7 +3557,7 @@ couvre_chef = [
   {
     "id": 237,
     "réf": "COI237",
-    "nomDuCostume": "canotier en osier",
+    "nomDuCostume": "Canotier en osier",
     "epoque": "",
     "epoque2": "",
     "sexe": "",
@@ -3572,7 +3572,7 @@ couvre_chef = [
   {
     "id": 238,
     "réf": "COI238",
-    "nomDuCostume": "canotier en plastique",
+    "nomDuCostume": "Canotier en plastique",
     "epoque": "",
     "epoque2": "",
     "sexe": "",
@@ -3587,7 +3587,7 @@ couvre_chef = [
   {
     "id": 239,
     "réf": "COI239",
-    "nomDuCostume": "chapeau de paille jaune et rose",
+    "nomDuCostume": "Chapeau de paille jaune et rose",
     "epoque": "",
     "epoque2": "",
     "sexe": "",
@@ -3602,7 +3602,7 @@ couvre_chef = [
   {
     "id": 240,
     "réf": "COI240",
-    "nomDuCostume": "chapeau femme mariage blanc à dentelle et fleur marron",
+    "nomDuCostume": "Chapeau femme mariage blanc à dentelle et fleur marron",
     "epoque": "",
     "epoque2": "",
     "sexe": "",
@@ -3617,7 +3617,7 @@ couvre_chef = [
   {
     "id": 241,
     "réf": "COI241",
-    "nomDuCostume": "chapeau femme gris avec perles nacrées",
+    "nomDuCostume": "Chapeau femme gris avec perles nacrées",
     "epoque": "",
     "epoque2": "",
     "sexe": "",
@@ -3632,7 +3632,7 @@ couvre_chef = [
   {
     "id": 242,
     "réf": "COI242",
-    "nomDuCostume": "chapeau de paille bleu foncé avec filet bleu et fleur bleu",
+    "nomDuCostume": "Chapeau de paille bleu foncé avec filet bleu et fleur bleu",
     "epoque": "",
     "epoque2": "",
     "sexe": "",
@@ -3647,7 +3647,7 @@ couvre_chef = [
   {
     "id": 243,
     "réf": "COI243",
-    "nomDuCostume": "chapeau femme doré",
+    "nomDuCostume": "Chapeau femme doré",
     "epoque": "",
     "epoque2": "",
     "sexe": "",
@@ -3662,7 +3662,7 @@ couvre_chef = [
   {
     "id": 244,
     "réf": "COI244",
-    "nomDuCostume": "chapeau de paille marron avec tissu noir et blanc",
+    "nomDuCostume": "Chapeau de paille marron avec tissu noir et blanc",
     "epoque": "",
     "epoque2": "",
     "sexe": "",
@@ -3677,7 +3677,7 @@ couvre_chef = [
   {
     "id": 245,
     "réf": "COI245",
-    "nomDuCostume": "chapeau beige et vert",
+    "nomDuCostume": "Chapeau beige et vert",
     "epoque": "",
     "epoque2": "",
     "sexe": "",
@@ -3692,7 +3692,7 @@ couvre_chef = [
   {
     "id": 246,
     "réf": "COI246",
-    "nomDuCostume": "chapeau vert foncé et marron",
+    "nomDuCostume": "Chapeau vert foncé et marron",
     "epoque": "",
     "epoque2": "",
     "sexe": "",
@@ -3707,7 +3707,7 @@ couvre_chef = [
   {
     "id": 247,
     "réf": "COI247",
-    "nomDuCostume": "chapeau de paille avec tissu marron",
+    "nomDuCostume": "Chapeau de paille avec tissu marron",
     "epoque": "",
     "epoque2": "",
     "sexe": "",
@@ -3722,7 +3722,7 @@ couvre_chef = [
   {
     "id": 248,
     "réf": "COI248",
-    "nomDuCostume": "chapeau rose avec tissu rouge bordeaux et blanc",
+    "nomDuCostume": "Chapeau rose avec tissu rouge bordeaux et blanc",
     "epoque": "",
     "epoque2": "",
     "sexe": "",
@@ -3737,7 +3737,7 @@ couvre_chef = [
   {
     "id": 249,
     "réf": "COI249",
-    "nomDuCostume": "chapeau gris à fleur rouge bordeaux",
+    "nomDuCostume": "Chapeau gris à fleur rouge bordeaux",
     "epoque": "",
     "epoque2": "",
     "sexe": "",
@@ -3752,7 +3752,7 @@ couvre_chef = [
   {
     "id": 250,
     "réf": "COI250",
-    "nomDuCostume": "coiffe femme marron avec élastique et fleur noire",
+    "nomDuCostume": "Coiffe femme marron avec élastique et fleur noire",
     "epoque": "",
     "epoque2": "",
     "sexe": "",
@@ -3767,7 +3767,7 @@ couvre_chef = [
   {
     "id": 251,
     "réf": "COI251",
-    "nomDuCostume": "chapeau vert à carreau et tissu vert foncé",
+    "nomDuCostume": "Chapeau vert à carreau et tissu vert foncé",
     "epoque": "",
     "epoque2": "",
     "sexe": "",
@@ -3780,63 +3780,63 @@ couvre_chef = [
     "bijoux": "sans_bijoux"
   },
   {
-    "id": "",
-    "réf": "",
-    "nomDuCostume": "coiffe gendarme bleu marine rouge",
+    "id": 252,
+    "réf": "COI252",
+    "nomDuCostume": "Coiffe gendarme bleu marine rouge",
     "epoque": "",
     "epoque2": "",
     "sexe": "",
-    "couleur_dominante": "",
-    "couleurs_autres": "",
+    "couleur_dominante": "bleu",
+    "couleurs_autres": "rouge",
     "type": "",
-    "voile": "",
+    "voile": "non",
     "quantite": 3,
     "lieu": "BCOI10",
-    "bijoux": ""
+    "bijoux": "sans_bijoux"
   },
   {
-    "id": "",
-    "réf": "",
-    "nomDuCostume": "coiffe gendarme bleu marine rigide",
+    "id": 253,
+    "réf": "COI253",
+    "nomDuCostume": "Coiffe gendarme bleu marine rigide",
     "epoque": "",
     "epoque2": "",
     "sexe": "",
-    "couleur_dominante": "",
-    "couleurs_autres": "",
+    "couleur_dominante": "bleu",
+    "couleurs_autres": "noir jaune",
     "type": "",
-    "voile": "",
+    "voile": "non",
     "quantite": 1,
     "lieu": "BCOI10",
-    "bijoux": ""
+    "bijoux": "sans_bijoux"
   },
   {
-    "id": "",
-    "réf": "",
-    "nomDuCostume": "coiffe gendarme rouge et noir",
+    "id": 254,
+    "réf": "COI254",
+    "nomDuCostume": "Coiffe gendarme rouge et noir",
     "epoque": "",
     "epoque2": "",
     "sexe": "",
-    "couleur_dominante": "",
-    "couleurs_autres": "",
+    "couleur_dominante": "rouge",
+    "couleurs_autres": "noir or",
     "type": "",
-    "voile": "",
+    "voile": "non",
     "quantite": 2,
     "lieu": "BCOI10",
-    "bijoux": ""
+    "bijoux": "sans_bijoux"
   },
   {
-    "id": "",
-    "réf": "",
-    "nomDuCostume": "voile jaune sur la tete",
+    "id": 255,
+    "réf": "COI255",
+    "nomDuCostume": "Voile jaune",
     "epoque": "",
     "epoque2": "",
     "sexe": "",
-    "couleur_dominante": "",
+    "couleur_dominante": "jaune",
     "couleurs_autres": "",
     "type": "",
-    "voile": "",
-    "quantite": "",
+    "voile": "non",
+    "quantite": 1,
     "lieu": "BCOI10",
-    "bijoux": ""
+    "bijoux": "sans_bijoux"
   }
 ]
