@@ -61,8 +61,8 @@ function cartons_couvre_chefs() {
 
     for (i=0;i<collection_couvre_chef.length;i++) {
         var newDiv       = document.createElement("p");
-        newDiv.id        = "NombreBoxCartonsCouvreChefs" + (i);
-        newDiv.className = "nombreCartons";
+        newDiv.id        = "NomBoxCartonsCouvreChefs" + (i);
+        newDiv.className = "NomCartons";
         newDiv.innerHTML = collection_couvre_chef[i]['reference']
         document.getElementById('divGeneralBoxCartonsCouvreChefs' + i).appendChild(newDiv);
     }

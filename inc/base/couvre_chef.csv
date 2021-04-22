@@ -1,4 +1,4 @@
-id,réf,nomducostume,epoque,epoque2,sexe,couleur_dominante,couleurs_autres,type,voile,quantite,lieu,bijoux
+id,réf,nomDuCostume,epoque,epoque2,sexe,couleur_dominante,couleurs_autres,type,voile,quantite,lieu,bijoux
 0,COI0,Hénin tronqué vert bandeau vert or et voile d’organza,XV,,F,vert blanc or,,,oui,1,BCOI1,sans_bijoux
 1,COI1,Tambourin velour vert or,XV,,F,vert or,,,oui,1,BCOI1,avec_bijoux
 2,COI2,Tambourin blanc gris,XII,,F,blanc gris,,,oui,1,BCOI1,avec_bijoux
@@ -255,3 +255,31 @@ id,réf,nomducostume,epoque,epoque2,sexe,couleur_dominante,couleurs_autres,type,
 253,COI253,Coiffe gendarme bleu marine rigide,,,,bleu,noir jaune,,non,1,BCOI10,sans_bijoux
 254,COI254,Coiffe gendarme rouge et noir,,,,rouge,noir or,,non,2,BCOI10,sans_bijoux
 255,COI255,Voile jaune,,,,jaune,,,non,1,BCOI10,sans_bijoux
+256,COI256,capeline noire avec raisins 1900,,,,noir,violet,,non,1,bcoi14,sans_bijoux
+257,COI257,capeline noire avec fleur blanche 1900,,,,noir,blanc,,non,1,bcoi14,sans_bijoux
+258,COI258,chapeau melon noir avec elastique 1900,,,,noir,,,non,1,bcoi14,sans_bijoux
+259,COI259,chapeau melon noir authentique abimé 1900,,,,noir,,,non,1,bcoi14,sans_bijoux
+260,COI260,chapeau melon noir récent 1900,,,,noir,,,non,2,bcoi14,sans_bijoux
+261,COI261,chapeau de paille élégant avec ruban bleu jeune fille,,,,jaune,bleu,,non,1,bcoi15,sans_bijoux
+262,COI262,chapeau de sherlock holmes,,,,gris,,,non,1,bcoi15,sans_bijoux
+263,COI263,chapeau gris pure feutre garanti,,,,gris,,,non,1,bcoi15,sans_bijoux
+264,COI264,chapeau noir ,,,,noir,,,non,1,bcoi15,sans_bijoux
+265,COI265,tete pour chauve ,,,,beige,,,non,1,bcoi15,sans_bijoux
+266,COI266,béret beige rouge noir ,,,,beige,noir marron,,non,1,bcoi15,sans_bijoux
+267,COI267,chapeau claque marron 1900,,,,noir,,,non,1,bcoi15,sans_bijoux
+268,COI268,chapeau melon marron,,,,marron,,,non,1,bcoi15,sans_bijoux
+269,COI269,beret vert et gris ,,,,gris,vert,,non,1,bcoi15,sans_bijoux
+270,COI270,chapeau melon noir très abimé 1900,,,,noir,,,non,1,bcoi15,sans_bijoux
+271,COI271,chapeau melon noir pas authentique 1900,,,,noir,,,non,1,bcoi15,sans_bijoux
+272,COI272,chapeau femme elegant blanc,,,,marron,noir,,non,1,bcoi15,sans_bijoux
+273,COI273,chapeau de femme ,,,,jaune,blanc,,non,1,bcoi15,sans_bijoux
+274,COI274,Chapeau de paille avec ruban vert ,,,,jaune,vert,,non,1,bcoi15,sans_bijoux
+275,COI275,chapeau de paille femme avec ruban rouge ,,,,jaune,rouge,,non,1,bcoi15,sans_bijoux
+276,COI276,chapeau de femme ruban bleu et fleur blanche,,,,jaune,bleu blanc,,non,1,bcoi14,sans_bijoux
+277,COI277,chapeau femme rouge et noir,,,,jaune,rouge noir,,non,1,bcoi14,sans_bijoux
+278,COI278,chapeau de paille femme ruban noir et blanc,,,,jaune,noir blanc,,non,1,bcoi14,sans_bijoux
+279,COI279,chapeau de femme rose,,,,jaune,rose blanc,,non,1,bcoi14,sans_bijoux
+280,COI280,chapeau femme orange sur le coté ,,,,jaune,orange marron,,non,1,bcoi14,sans_bijoux
+281,COI281,chapeau femme jaune avec cerises ,,,,jaune,rose vert,,non,1,bcoi14,sans_bijoux
+282,COI282,chapeau femme paille violet foncé ,,,,jaune,rose violet,,non,1,bcoi14,sans_bijoux
+283,COI283,chapeau paille femme violet clair avec ruban,,,,jaune,violet,,non,1,bcoi14,sans_bijoux
