@@ -4,10 +4,10 @@
     display: inline-table;
     box-shadow: 0 6px 9px 0 rgba(0, 0, 0, 0.15);
 }
-#statistiques_nb_coiffes {
+#statistiques_nb_coiffes, #statistiques_nb_vetement {
     background-color: #AB9468;
 }
-#statistiques_nb_ref_coiffes {
+#statistiques_nb_ref_coiffes,  #statistiques_nb_ref_vetement{
     background-color: #d6b96a;
 }
 .number {

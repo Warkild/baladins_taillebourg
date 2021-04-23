@@ -118,5 +118,77 @@ cartons = [
     "salle": "S510",
     "nombre": 15,
     "type": "couvre_chef"
+  },
+  {
+    "reference": "BGEN1",
+    "salle": "S510",
+    "nombre": 31,
+    "type": "vetement"
+  },
+  {
+    "reference": "BVE1",
+    "salle": "S510",
+    "nombre": 13,
+    "type": "vetement"
+  },
+  {
+    "reference": "BCHA1",
+    "salle": "S510",
+    "nombre": 24,
+    "type": "vetement"
+  },
+  {
+    "reference": "BCHA2",
+    "salle": "S510",
+    "nombre": 44,
+    "type": "vetement"
+  },
+  {
+    "reference": "BRO3",
+    "salle": "S510",
+    "nombre": 8,
+    "type": "vetement"
+  },
+  {
+    "reference": "BJU2",
+    "salle": "S510",
+    "nombre": 8,
+    "type": "vetement"
+  },
+  {
+    "reference": "BJU3",
+    "salle": "S510",
+    "nombre": 29,
+    "type": "vetement"
+  },
+  {
+    "reference": "BJU4",
+    "salle": "S510",
+    "nombre": 18,
+    "type": "vetement"
+  },
+  {
+    "reference": "BPAN1",
+    "salle": "S510",
+    "nombre": 29,
+    "type": "vetement"
+  },
+  {
+    "reference": "BPAN2",
+    "salle": "S510",
+    "nombre": 23,
+    "type": "vetement"
+  },
+  {
+    "reference": "BPAN3",
+    "salle": "S510",
+    "nombre": 10,
+    "type": "vetement"
+  },
+  {
+    "reference": "BTEN1",
+    "salle": "S510",
+    "nombre": 9,
+    "type": "vetement"
   }
 ]

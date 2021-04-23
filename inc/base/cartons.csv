@@ -19,3 +19,15 @@ BCOI11,S510,28,couvre_chef
 BCOI12,S510,34,couvre_chef
 BCOI14,S510,14,couvre_chef
 BCOI15,S510,15,couvre_chef
+BGEN1,S510,31,vetement
+BVE1,S510,13,vetement
+BCHA1,S510,24,vetement
+BCHA2,S510,44,vetement
+BRO3,S510,8,vetement
+BJU2,S510,8,vetement
+BJU3,S510,29,vetement
+BJU4,S510,18,vetement
+BPAN1,S510,29,vetement
+BPAN2,S510,23,vetement
+BPAN3,S510,10,vetement
+BTEN1,S510,9,vetement
