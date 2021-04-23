@@ -184,7 +184,7 @@ vetements = [
     "couleurs_autres": "",
     "type": "veste",
     "quantite": 1,
-    "lieu": "BVE2"
+    "lieu": "BVE1"
   },
   {
     "id": 17,
@@ -195,7 +195,7 @@ vetements = [
     "couleurs_autres": "",
     "type": "veste",
     "quantite": 1,
-    "lieu": "BVE2"
+    "lieu": "BVE1"
   },
   {
     "id": 18,
@@ -206,7 +206,7 @@ vetements = [
     "couleurs_autres": "gris",
     "type": "veste",
     "quantite": 1,
-    "lieu": "BVE3"
+    "lieu": "BVE1"
   },
   {
     "id": 19,
@@ -217,7 +217,7 @@ vetements = [
     "couleurs_autres": "",
     "type": "veste",
     "quantite": 1,
-    "lieu": "BVE3"
+    "lieu": "BVE1"
   },
   {
     "id": 20,
@@ -228,7 +228,7 @@ vetements = [
     "couleurs_autres": "",
     "type": "veste",
     "quantite": 1,
-    "lieu": "BVE4"
+    "lieu": "BVE1"
   },
   {
     "id": 21,
@@ -239,7 +239,7 @@ vetements = [
     "couleurs_autres": "",
     "type": "veste",
     "quantite": 1,
-    "lieu": "BVE4"
+    "lieu": "BVE1"
   },
   {
     "id": 22,
@@ -250,7 +250,7 @@ vetements = [
     "couleurs_autres": "",
     "type": "veste",
     "quantite": 1,
-    "lieu": "BVE5"
+    "lieu": "BVE1"
   },
   {
     "id": 23,
@@ -261,7 +261,7 @@ vetements = [
     "couleurs_autres": "blanc vert",
     "type": "veste",
     "quantite": 1,
-    "lieu": "BVE5"
+    "lieu": "BVE1"
   },
   {
     "id": 24,
@@ -272,7 +272,7 @@ vetements = [
     "couleurs_autres": "or",
     "type": "veste",
     "quantite": 1,
-    "lieu": "BVE6"
+    "lieu": "BVE1"
   },
   {
     "id": 25,
@@ -283,7 +283,7 @@ vetements = [
     "couleurs_autres": "noir",
     "type": "veste",
     "quantite": 1,
-    "lieu": "BVE6"
+    "lieu": "BVE1"
   },
   {
     "id": 26,
@@ -294,7 +294,7 @@ vetements = [
     "couleurs_autres": "",
     "type": "veste",
     "quantite": 1,
-    "lieu": "BVE7"
+    "lieu": "BVE1"
   },
   {
     "id": 27,
@@ -1637,5 +1637,731 @@ vetements = [
     "type": "pantalon",
     "quantite": 1,
     "lieu": "BPAN3"
+  },
+  {
+    "id": 149,
+    "réf": "VET149",
+    "nomDuCostume": "jupon longue bleu foncé 1900",
+    "epoque": "",
+    "couleur_dominante": "bleu",
+    "couleurs_autres": "",
+    "type": "jupe",
+    "quantite": 1,
+    "lieu": "BJU4"
+  },
+  {
+    "id": 150,
+    "réf": "VET150",
+    "nomDuCostume": "Chemisier 1900 blanc",
+    "epoque": "",
+    "couleur_dominante": "blanc",
+    "couleurs_autres": "",
+    "type": "haut",
+    "quantite": 1,
+    "lieu": "BCHA3"
+  },
+  {
+    "id": 151,
+    "réf": "VET151",
+    "nomDuCostume": "chemisier blanc 1900",
+    "epoque": "",
+    "couleur_dominante": "blanc",
+    "couleurs_autres": "",
+    "type": "haut",
+    "quantite": 1,
+    "lieu": "BCHA3"
+  },
+  {
+    "id": 152,
+    "réf": "VET152",
+    "nomDuCostume": "Chemisier 1900",
+    "epoque": "",
+    "couleur_dominante": "blanc",
+    "couleurs_autres": "",
+    "type": "haut",
+    "quantite": 1,
+    "lieu": "BCHA3"
+  },
+  {
+    "id": 153,
+    "réf": "VET153",
+    "nomDuCostume": "Chemisier 1900 long",
+    "epoque": "",
+    "couleur_dominante": "blanc",
+    "couleurs_autres": "",
+    "type": "haut",
+    "quantite": 1,
+    "lieu": "BCHA3"
+  },
+  {
+    "id": 154,
+    "réf": "VET154",
+    "nomDuCostume": "Chemisier 1900",
+    "epoque": "",
+    "couleur_dominante": "blanc",
+    "couleurs_autres": "",
+    "type": "haut",
+    "quantite": 1,
+    "lieu": "BCHA3"
+  },
+  {
+    "id": 155,
+    "réf": "VET155",
+    "nomDuCostume": "chemise blanche",
+    "epoque": "",
+    "couleur_dominante": "blanc",
+    "couleurs_autres": "",
+    "type": "haut",
+    "quantite": 1,
+    "lieu": "BCHA3"
+  },
+  {
+    "id": 156,
+    "réf": "VET156",
+    "nomDuCostume": "chemisier blanc 1900",
+    "epoque": "",
+    "couleur_dominante": "blanc",
+    "couleurs_autres": "",
+    "type": "haut",
+    "quantite": 1,
+    "lieu": "BCHA3"
+  },
+  {
+    "id": 157,
+    "réf": "VET157",
+    "nomDuCostume": "chemisier blanc 1900",
+    "epoque": "",
+    "couleur_dominante": "blanc",
+    "couleurs_autres": "",
+    "type": "haut",
+    "quantite": 1,
+    "lieu": "BCHA3"
+  },
+  {
+    "id": 158,
+    "réf": "VET158",
+    "nomDuCostume": "chemisier beige",
+    "epoque": "",
+    "couleur_dominante": "blanc",
+    "couleurs_autres": "",
+    "type": "haut",
+    "quantite": 1,
+    "lieu": "BCHA3"
+  },
+  {
+    "id": 159,
+    "réf": "VET159",
+    "nomDuCostume": "chemisier noir",
+    "epoque": "",
+    "couleur_dominante": "noir",
+    "couleurs_autres": "",
+    "type": "haut",
+    "quantite": 1,
+    "lieu": "BCHA3"
+  },
+  {
+    "id": 160,
+    "réf": "VET160",
+    "nomDuCostume": "Chemisier noir sans manche",
+    "epoque": "",
+    "couleur_dominante": "noir",
+    "couleurs_autres": "",
+    "type": "haut",
+    "quantite": 1,
+    "lieu": "BCHA3"
+  },
+  {
+    "id": 161,
+    "réf": "VET161",
+    "nomDuCostume": "chemise longue blanche",
+    "epoque": "",
+    "couleur_dominante": "blanc",
+    "couleurs_autres": "",
+    "type": "haut",
+    "quantite": 1,
+    "lieu": "BCHA3"
+  },
+  {
+    "id": 162,
+    "réf": "VET162",
+    "nomDuCostume": "chemise longue blanche",
+    "epoque": "",
+    "couleur_dominante": "blanc",
+    "couleurs_autres": "",
+    "type": "haut",
+    "quantite": 1,
+    "lieu": "BCHA3"
+  },
+  {
+    "id": 163,
+    "réf": "VET163",
+    "nomDuCostume": "chemise blanche avec froufrou",
+    "epoque": "",
+    "couleur_dominante": "blanc",
+    "couleurs_autres": "",
+    "type": "haut",
+    "quantite": 1,
+    "lieu": "BCHA3"
+  },
+  {
+    "id": 164,
+    "réf": "VET164",
+    "nomDuCostume": "haut transparent blanc",
+    "epoque": "",
+    "couleur_dominante": "blanc",
+    "couleurs_autres": "",
+    "type": "haut",
+    "quantite": 1,
+    "lieu": "BCHA3"
+  },
+  {
+    "id": 165,
+    "réf": "VET165",
+    "nomDuCostume": "jupon blanc court",
+    "epoque": "",
+    "couleur_dominante": "blanc",
+    "couleurs_autres": "",
+    "type": "jupe",
+    "quantite": 1,
+    "lieu": "BJU5"
+  },
+  {
+    "id": 166,
+    "réf": "VET166",
+    "nomDuCostume": "jupon blanc court avec dentelle",
+    "epoque": "",
+    "couleur_dominante": "blanc",
+    "couleurs_autres": "",
+    "type": "jupe",
+    "quantite": 1,
+    "lieu": "BJU5"
+  },
+  {
+    "id": 167,
+    "réf": "VET167",
+    "nomDuCostume": "jupon long blanc",
+    "epoque": "",
+    "couleur_dominante": "blanc",
+    "couleurs_autres": "",
+    "type": "jupe",
+    "quantite": 5,
+    "lieu": "BJU5"
+  },
+  {
+    "id": 168,
+    "réf": "VET168",
+    "nomDuCostume": "jupe longue blanche",
+    "epoque": "",
+    "couleur_dominante": "blanc",
+    "couleurs_autres": "",
+    "type": "jupe",
+    "quantite": 1,
+    "lieu": "BJU5"
+  },
+  {
+    "id": 169,
+    "réf": "VET169",
+    "nomDuCostume": "jupe longue blanche",
+    "epoque": "",
+    "couleur_dominante": "blanc",
+    "couleurs_autres": "",
+    "type": "jupe",
+    "quantite": 1,
+    "lieu": "BJU5"
+  },
+  {
+    "id": 170,
+    "réf": "VET170",
+    "nomDuCostume": "jupe longue blanche",
+    "epoque": "",
+    "couleur_dominante": "blanc",
+    "couleurs_autres": "",
+    "type": "jupe",
+    "quantite": 1,
+    "lieu": "BJU5"
+  },
+  {
+    "id": 171,
+    "réf": "VET171",
+    "nomDuCostume": "chemisier blanc manche blonde bouton or",
+    "epoque": "",
+    "couleur_dominante": "blanc",
+    "couleurs_autres": "or",
+    "type": "haut",
+    "quantite": "",
+    "lieu": "BCHA3"
+  },
+  {
+    "id": 172,
+    "réf": "VET172",
+    "nomDuCostume": "chemisier blanc 1900",
+    "epoque": "",
+    "couleur_dominante": "blanc",
+    "couleurs_autres": "",
+    "type": "haut",
+    "quantite": "",
+    "lieu": "BCHA3"
+  },
+  {
+    "id": 173,
+    "réf": "VET173",
+    "nomDuCostume": "chemise de nuit femme 19e",
+    "epoque": "",
+    "couleur_dominante": "blanc",
+    "couleurs_autres": "",
+    "type": "haut",
+    "quantite": "",
+    "lieu": "BCHA3"
+  },
+  {
+    "id": 174,
+    "réf": "VET174",
+    "nomDuCostume": "T-shirt blanc manche longue taille 42-44",
+    "epoque": "",
+    "couleur_dominante": "blanc",
+    "couleurs_autres": "",
+    "type": "haut",
+    "quantite": "",
+    "lieu": "BCHA3"
+  },
+  {
+    "id": 175,
+    "réf": "VET175",
+    "nomDuCostume": "chemise blanche",
+    "epoque": "",
+    "couleur_dominante": "blanc",
+    "couleurs_autres": "",
+    "type": "haut",
+    "quantite": "",
+    "lieu": "BCHA3"
+  },
+  {
+    "id": 176,
+    "réf": "VET176",
+    "nomDuCostume": "chemise manche longue",
+    "epoque": "",
+    "couleur_dominante": "blanc",
+    "couleurs_autres": "",
+    "type": "haut",
+    "quantite": "",
+    "lieu": "BCHA3"
+  },
+  {
+    "id": 177,
+    "réf": "VET177",
+    "nomDuCostume": "chemisier blanc manche longue",
+    "epoque": "",
+    "couleur_dominante": "blanc",
+    "couleurs_autres": "",
+    "type": "haut",
+    "quantite": "",
+    "lieu": "BCHA3"
+  },
+  {
+    "id": 178,
+    "réf": "VET178",
+    "nomDuCostume": "chemisier blanc 1900",
+    "epoque": "",
+    "couleur_dominante": "blanc",
+    "couleurs_autres": "",
+    "type": "haut",
+    "quantite": "",
+    "lieu": "BCHA3"
+  },
+  {
+    "id": 179,
+    "réf": "VET179",
+    "nomDuCostume": "chemise blanche rayé",
+    "epoque": "",
+    "couleur_dominante": "blanc",
+    "couleurs_autres": "",
+    "type": "haut",
+    "quantite": "",
+    "lieu": "BCHA3"
+  },
+  {
+    "id": 180,
+    "réf": "VET180",
+    "nomDuCostume": "chemise blanche manche longue",
+    "epoque": "",
+    "couleur_dominante": "blanc",
+    "couleurs_autres": "",
+    "type": "haut",
+    "quantite": "",
+    "lieu": "BCHA3"
+  },
+  {
+    "id": 181,
+    "réf": "VET181",
+    "nomDuCostume": "chemisier blanc avec nœud au cou",
+    "epoque": "",
+    "couleur_dominante": "blanc",
+    "couleurs_autres": "",
+    "type": "haut",
+    "quantite": "",
+    "lieu": "BCHA3"
+  },
+  {
+    "id": 182,
+    "réf": "VET182",
+    "nomDuCostume": "chemisier blanc col",
+    "epoque": "",
+    "couleur_dominante": "blanc",
+    "couleurs_autres": "",
+    "type": "haut",
+    "quantite": "",
+    "lieu": "BCHA3"
+  },
+  {
+    "id": 183,
+    "réf": "VET183",
+    "nomDuCostume": "chemisier blanc avec nœud au cou",
+    "epoque": "",
+    "couleur_dominante": "blanc",
+    "couleurs_autres": "",
+    "type": "haut",
+    "quantite": "",
+    "lieu": "BCHA3"
+  },
+  {
+    "id": 184,
+    "réf": "VET184",
+    "nomDuCostume": "chemise blanche",
+    "epoque": "",
+    "couleur_dominante": "blanc",
+    "couleurs_autres": "",
+    "type": "haut",
+    "quantite": "",
+    "lieu": "BCHA3"
+  },
+  {
+    "id": 185,
+    "réf": "VET185",
+    "nomDuCostume": "chemisier blanc",
+    "epoque": "",
+    "couleur_dominante": "blanc",
+    "couleurs_autres": "",
+    "type": "haut",
+    "quantite": "",
+    "lieu": "BCHA3"
+  },
+  {
+    "id": 186,
+    "réf": "VET186",
+    "nomDuCostume": "robe de nuit blanche",
+    "epoque": "",
+    "couleur_dominante": "blanc",
+    "couleurs_autres": "",
+    "type": "haut",
+    "quantite": "",
+    "lieu": "BCHA3"
+  },
+  {
+    "id": 187,
+    "réf": "VET187",
+    "nomDuCostume": "chemise blanche manche longue",
+    "epoque": "",
+    "couleur_dominante": "blanc",
+    "couleurs_autres": "",
+    "type": "haut",
+    "quantite": "",
+    "lieu": "BCHA3"
+  },
+  {
+    "id": 188,
+    "réf": "VET188",
+    "nomDuCostume": "chemise de nuit blanche",
+    "epoque": "",
+    "couleur_dominante": "blanc",
+    "couleurs_autres": "",
+    "type": "haut",
+    "quantite": "",
+    "lieu": "BCHA3"
+  },
+  {
+    "id": 189,
+    "réf": "VET189",
+    "nomDuCostume": "chemise de nuit blanche",
+    "epoque": "",
+    "couleur_dominante": "blanc",
+    "couleurs_autres": "",
+    "type": "haut",
+    "quantite": "",
+    "lieu": "BCHA3"
+  },
+  {
+    "id": 190,
+    "réf": "VET190",
+    "nomDuCostume": "chemise longue blanche",
+    "epoque": "",
+    "couleur_dominante": "blanc",
+    "couleurs_autres": "",
+    "type": "haut",
+    "quantite": "",
+    "lieu": "BCHA3"
+  },
+  {
+    "id": 191,
+    "réf": "VET191",
+    "nomDuCostume": "chemise blanche manche longue",
+    "epoque": "",
+    "couleur_dominante": "blanc",
+    "couleurs_autres": "",
+    "type": "haut",
+    "quantite": "",
+    "lieu": "BCHA3"
+  },
+  {
+    "id": 192,
+    "réf": "VET192",
+    "nomDuCostume": "chemise de nuit",
+    "epoque": "",
+    "couleur_dominante": "blanc",
+    "couleurs_autres": "",
+    "type": "haut",
+    "quantite": "",
+    "lieu": "BCHA3"
+  },
+  {
+    "id": 193,
+    "réf": "VET193",
+    "nomDuCostume": "chemise longue blanche",
+    "epoque": "",
+    "couleur_dominante": "blanc",
+    "couleurs_autres": "",
+    "type": "haut",
+    "quantite": "",
+    "lieu": "BCHA3"
+  },
+  {
+    "id": 194,
+    "réf": "VET194",
+    "nomDuCostume": "chemise manche moyenne",
+    "epoque": "",
+    "couleur_dominante": "blanc",
+    "couleurs_autres": "",
+    "type": "haut",
+    "quantite": "",
+    "lieu": "BCHA3"
+  },
+  {
+    "id": 195,
+    "réf": "VET195",
+    "nomDuCostume": "chemise longue blanche",
+    "epoque": "",
+    "couleur_dominante": "blanc",
+    "couleurs_autres": "",
+    "type": "haut",
+    "quantite": "",
+    "lieu": "BCHA3"
+  },
+  {
+    "id": 196,
+    "réf": "VET196",
+    "nomDuCostume": "chemise transparente manche longue",
+    "epoque": "",
+    "couleur_dominante": "blanc",
+    "couleurs_autres": "",
+    "type": "haut",
+    "quantite": "",
+    "lieu": "BCHA3"
+  },
+  {
+    "id": 197,
+    "réf": "VET197",
+    "nomDuCostume": "chemise blanche manche longue",
+    "epoque": "",
+    "couleur_dominante": "blanc",
+    "couleurs_autres": "",
+    "type": "haut",
+    "quantite": "",
+    "lieu": "BCHA3"
+  },
+  {
+    "id": 198,
+    "réf": "VET198",
+    "nomDuCostume": "chemise blanche",
+    "epoque": "",
+    "couleur_dominante": "blanc",
+    "couleurs_autres": "",
+    "type": "haut",
+    "quantite": "",
+    "lieu": "BCHA4"
+  },
+  {
+    "id": 199,
+    "réf": "VET199",
+    "nomDuCostume": "chemise blanche",
+    "epoque": "",
+    "couleur_dominante": "blanc",
+    "couleurs_autres": "",
+    "type": "haut",
+    "quantite": "",
+    "lieu": "BCHA4"
+  },
+  {
+    "id": 200,
+    "réf": "VET200",
+    "nomDuCostume": "chemise longue blanche",
+    "epoque": "",
+    "couleur_dominante": "blanc",
+    "couleurs_autres": "",
+    "type": "haut",
+    "quantite": "",
+    "lieu": "BCHA4"
+  },
+  {
+    "id": 201,
+    "réf": "VET201",
+    "nomDuCostume": "chemise de nuit blanche homme",
+    "epoque": "",
+    "couleur_dominante": "blanc",
+    "couleurs_autres": "",
+    "type": "haut",
+    "quantite": "",
+    "lieu": "BCHA4"
+  },
+  {
+    "id": 202,
+    "réf": "VET202",
+    "nomDuCostume": "chemise longue blanche",
+    "epoque": "",
+    "couleur_dominante": "blanc",
+    "couleurs_autres": "",
+    "type": "haut",
+    "quantite": "",
+    "lieu": "BCHA4"
+  },
+  {
+    "id": 203,
+    "réf": "VET203",
+    "nomDuCostume": "chemise blanche courte manche longue",
+    "epoque": "",
+    "couleur_dominante": "blanc",
+    "couleurs_autres": "",
+    "type": "haut",
+    "quantite": "",
+    "lieu": "BCHA4"
+  },
+  {
+    "id": 204,
+    "réf": "VET204",
+    "nomDuCostume": "chemise longue blanche",
+    "epoque": "",
+    "couleur_dominante": "blanc",
+    "couleurs_autres": "",
+    "type": "haut",
+    "quantite": "",
+    "lieu": "BCHA4"
+  },
+  {
+    "id": 205,
+    "réf": "VET205",
+    "nomDuCostume": "chemise courte",
+    "epoque": "",
+    "couleur_dominante": "blanc",
+    "couleurs_autres": "",
+    "type": "haut",
+    "quantite": "",
+    "lieu": "BCHA4"
+  },
+  {
+    "id": 206,
+    "réf": "VET206",
+    "nomDuCostume": "chemise boutons nombreux",
+    "epoque": "",
+    "couleur_dominante": "blanc",
+    "couleurs_autres": "",
+    "type": "haut",
+    "quantite": "",
+    "lieu": "BCHA4"
+  },
+  {
+    "id": 207,
+    "réf": "VET207",
+    "nomDuCostume": "chemisier fleuri blanc",
+    "epoque": "",
+    "couleur_dominante": "blanc",
+    "couleurs_autres": "",
+    "type": "haut",
+    "quantite": "",
+    "lieu": "BCHA4"
+  },
+  {
+    "id": 208,
+    "réf": "VET208",
+    "nomDuCostume": "chemise brodée",
+    "epoque": "",
+    "couleur_dominante": "blanc",
+    "couleurs_autres": "",
+    "type": "haut",
+    "quantite": "",
+    "lieu": "BCHA4"
+  },
+  {
+    "id": 209,
+    "réf": "VET209",
+    "nomDuCostume": "chemise blanche",
+    "epoque": "",
+    "couleur_dominante": "blanc",
+    "couleurs_autres": "",
+    "type": "haut",
+    "quantite": "",
+    "lieu": "BCHA4"
+  },
+  {
+    "id": 210,
+    "réf": "VET210",
+    "nomDuCostume": "chemisier blanc manche longue",
+    "epoque": "",
+    "couleur_dominante": "blanc",
+    "couleurs_autres": "",
+    "type": "haut",
+    "quantite": "",
+    "lieu": "BCHA4"
+  },
+  {
+    "id": 211,
+    "réf": "VET211",
+    "nomDuCostume": "chemise blanche manche longue",
+    "epoque": "",
+    "couleur_dominante": "blanc",
+    "couleurs_autres": "",
+    "type": "haut",
+    "quantite": "",
+    "lieu": "BCHA4"
+  },
+  {
+    "id": 212,
+    "réf": "VET212",
+    "nomDuCostume": "chemisier blanc cassé",
+    "epoque": "",
+    "couleur_dominante": "blanc",
+    "couleurs_autres": "",
+    "type": "haut",
+    "quantite": "",
+    "lieu": "BCHA4"
+  },
+  {
+    "id": 213,
+    "réf": "VET213",
+    "nomDuCostume": "chemise blanche",
+    "epoque": "",
+    "couleur_dominante": "blanc",
+    "couleurs_autres": "",
+    "type": "haut",
+    "quantite": "",
+    "lieu": "BCHA4"
+  },
+  {
+    "id": 214,
+    "réf": "VET214",
+    "nomDuCostume": "chemise blanche",
+    "epoque": "",
+    "couleur_dominante": "blanc",
+    "couleurs_autres": "",
+    "type": "haut",
+    "quantite": "",
+    "lieu": "BCHA4"
   }
 ]

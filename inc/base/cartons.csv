@@ -23,10 +23,12 @@ BGEN1,S510,31,vetement
 BVE1,S510,13,vetement
 BCHA1,S510,24,vetement
 BCHA2,S510,44,vetement
+BCHA3,S510,42,vetement
+BCHA4,S510,17,vetement
 BRO3,S510,8,vetement
 BJU2,S510,8,vetement
 BJU3,S510,29,vetement
-BJU4,S510,18,vetement
+BJU4,S510,19,vetement
 BPAN1,S510,29,vetement
 BPAN2,S510,23,vetement
 BPAN3,S510,10,vetement

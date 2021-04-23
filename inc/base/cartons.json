@@ -144,6 +144,18 @@ cartons = [
     "type": "vetement"
   },
   {
+    "reference": "BCHA3",
+    "salle": "S510",
+    "nombre": 42,
+    "type": "vetement"
+  },
+  {
+    "reference": "BCHA4",
+    "salle": "S510",
+    "nombre": 17,
+    "type": "vetement"
+  },
+  {
     "reference": "BRO3",
     "salle": "S510",
     "nombre": 8,
@@ -164,7 +176,7 @@ cartons = [
   {
     "reference": "BJU4",
     "salle": "S510",
-    "nombre": 18,
+    "nombre": 19,
     "type": "vetement"
   },
   {
