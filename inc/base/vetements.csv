@@ -113,3 +113,38 @@ id,réf,nomDuCostume,epoque,couleur_dominante,couleurs_autres,type,quantite,lieu
 111,VET111,pantalon bleu foncé noir,,bleu,,pantalon,1,BPAN2
 112,VET112,pantalon noir de costume,,noir,,pantalon,1,BPAN2
 113,VET113,pantalon noir avec ruban sur le coté ,,noir,,pantalon,1,BPAN2
+114,VET114,jupe longue bleue unie,,bleu,,jupe,7,BJU3
+115,VET115,jupe longue verte unie,,vert,,jupe,2,BJU3
+116,VET116,Sur-jupe jaune moutarde avec poche et attache au dos,,jaune,,jupe,1,BJU4
+117,VET117,Sur-jupe à carreaux bleu et jaune à poches,,bleu,jaune,jupe,2,BJU4
+118,VET118,Sur-jupe à rayures bleu et beige ,,beige,bleu,jupe,1,BJU4
+119,VET119,Sur-jupe à carreaux noir et blanc,,noir,gris,jupe,1,BJU4
+120,VET120,Sur-jupe avec poche blanche et taches bleues,,blanc,bleu,jupe,1,BJU4
+121,VET121,Sur-jupe à poche noire,,noir,,jupe,3,BJU4
+122,VET122,Sur-jupe avec poche noire et blanche à pois ,,noir,blanc,jupe,1,BJU4
+123,VET123,Sur-jupe avec poche violet et marron,,marron,violet,jupe,2,BJU4
+124,VET124,Sur-jupe courte avec poche marron à carreaux,,marron,blanc,jupe,1,BJU4
+125,VET125,Sur-jupe beige à poche ,,beige,,jupe,1,BJU4
+126,VET126,Sur-jupe marron à poche ,,marron,,jupe,1,BJU4
+127,VET127,salopette tablier blanc,,blanc,,salopette,1,BJU4
+128,VET128,Sur-jupe blanche courte,,blanc,,jupe,1,BJU4
+129,VET129,Sur-jupe à petits carreaux marron,,marron,,pantalon,1,BJU4
+130,VET130,pantalon en velours marron ,,marron,,pantalon,1,BPAN2
+131,VET131,pantalon à rayure noir et gris,,noir,gris,pantalon,1,BPAN2
+132,VET132,pantalon gris ,,gris,,pantalon,1,BPAN2
+133,VET133,pantalon noir uni,,noir,,pantalon,1,BPAN2
+134,VET134,jeans bleu avec ceinture marron en jute et carreaux de tissus ,,bleu,marron violet vert,pantalon,1,BPAN2
+135,VET135,jeans gris foncé type velours,,gris,,pantalon,1,BPAN2
+136,VET136,pantalon noir sale à rayures droites,,noir,,pantalon,1,BPAN2
+137,VET137,pantalon vert kaki en velours ,,vert,,pantalon,1,BPAN2
+138,VET138,pantalon en velours beige,,beige,,pantalon,2,BPAN2
+139,VET139,pantalon en velours gris taille large,,gris,,pantalon,1,BPAN2
+140,VET140,pantalon en velours vert kaki ,,vert,,pantalon,1,BPAN3
+141,VET141,pantalon marron foncé en velours,,marron,,pantalon,1,BPAN3
+142,VET142,pantalon noir doux ,,noir,,pantalon,1,BPAN3
+143,VET143,pantalon gris à rayures,,gris,,pantalon,1,BPAN3
+144,VET144,pantalon gris à velours ,,gris,,pantalon,1,BPAN3
+145,VET145,pantalon en velours bleu foncé ,,bleu,,pantalon,1,BPAN3
+146,VET146,pantalon marron en velours avec ficelle ,,marron,blanc,pantalon,1,BPAN3
+147,VET147,pantalon vert bleu ,,bleu,,pantalon,2,BPAN3
+148,VET148,Panta-court à rayure gris noir,,noir,gris,pantalon,1,BPAN3
