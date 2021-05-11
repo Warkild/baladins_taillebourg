@@ -1888,7 +1888,7 @@ vetements = [
     "couleur_dominante": "blanc",
     "couleurs_autres": "or",
     "type": "haut",
-    "quantite": "",
+    "quantite": 1,
     "lieu": "BCHA3"
   },
   {
@@ -1899,7 +1899,7 @@ vetements = [
     "couleur_dominante": "blanc",
     "couleurs_autres": "",
     "type": "haut",
-    "quantite": "",
+    "quantite": 1,
     "lieu": "BCHA3"
   },
   {
@@ -1910,7 +1910,7 @@ vetements = [
     "couleur_dominante": "blanc",
     "couleurs_autres": "",
     "type": "haut",
-    "quantite": "",
+    "quantite": 1,
     "lieu": "BCHA3"
   },
   {
@@ -1921,7 +1921,7 @@ vetements = [
     "couleur_dominante": "blanc",
     "couleurs_autres": "",
     "type": "haut",
-    "quantite": "",
+    "quantite": 1,
     "lieu": "BCHA3"
   },
   {
@@ -1932,7 +1932,7 @@ vetements = [
     "couleur_dominante": "blanc",
     "couleurs_autres": "",
     "type": "haut",
-    "quantite": "",
+    "quantite": 1,
     "lieu": "BCHA3"
   },
   {
@@ -1943,7 +1943,7 @@ vetements = [
     "couleur_dominante": "blanc",
     "couleurs_autres": "",
     "type": "haut",
-    "quantite": "",
+    "quantite": 1,
     "lieu": "BCHA3"
   },
   {
@@ -1954,7 +1954,7 @@ vetements = [
     "couleur_dominante": "blanc",
     "couleurs_autres": "",
     "type": "haut",
-    "quantite": "",
+    "quantite": 1,
     "lieu": "BCHA3"
   },
   {
@@ -1965,7 +1965,7 @@ vetements = [
     "couleur_dominante": "blanc",
     "couleurs_autres": "",
     "type": "haut",
-    "quantite": "",
+    "quantite": 1,
     "lieu": "BCHA3"
   },
   {
@@ -1976,7 +1976,7 @@ vetements = [
     "couleur_dominante": "blanc",
     "couleurs_autres": "",
     "type": "haut",
-    "quantite": "",
+    "quantite": 1,
     "lieu": "BCHA3"
   },
   {
@@ -1987,7 +1987,7 @@ vetements = [
     "couleur_dominante": "blanc",
     "couleurs_autres": "",
     "type": "haut",
-    "quantite": "",
+    "quantite": 1,
     "lieu": "BCHA3"
   },
   {
@@ -1998,7 +1998,7 @@ vetements = [
     "couleur_dominante": "blanc",
     "couleurs_autres": "",
     "type": "haut",
-    "quantite": "",
+    "quantite": 1,
     "lieu": "BCHA3"
   },
   {
@@ -2009,7 +2009,7 @@ vetements = [
     "couleur_dominante": "blanc",
     "couleurs_autres": "",
     "type": "haut",
-    "quantite": "",
+    "quantite": 1,
     "lieu": "BCHA3"
   },
   {
@@ -2020,7 +2020,7 @@ vetements = [
     "couleur_dominante": "blanc",
     "couleurs_autres": "",
     "type": "haut",
-    "quantite": "",
+    "quantite": 1,
     "lieu": "BCHA3"
   },
   {
@@ -2031,7 +2031,7 @@ vetements = [
     "couleur_dominante": "blanc",
     "couleurs_autres": "",
     "type": "haut",
-    "quantite": "",
+    "quantite": 1,
     "lieu": "BCHA3"
   },
   {
@@ -2042,7 +2042,7 @@ vetements = [
     "couleur_dominante": "blanc",
     "couleurs_autres": "",
     "type": "haut",
-    "quantite": "",
+    "quantite": 1,
     "lieu": "BCHA3"
   },
   {
@@ -2053,7 +2053,7 @@ vetements = [
     "couleur_dominante": "blanc",
     "couleurs_autres": "",
     "type": "haut",
-    "quantite": "",
+    "quantite": 1,
     "lieu": "BCHA3"
   },
   {
@@ -2064,7 +2064,7 @@ vetements = [
     "couleur_dominante": "blanc",
     "couleurs_autres": "",
     "type": "haut",
-    "quantite": "",
+    "quantite": 1,
     "lieu": "BCHA3"
   },
   {
@@ -2075,7 +2075,7 @@ vetements = [
     "couleur_dominante": "blanc",
     "couleurs_autres": "",
     "type": "haut",
-    "quantite": "",
+    "quantite": 1,
     "lieu": "BCHA3"
   },
   {
@@ -2086,7 +2086,7 @@ vetements = [
     "couleur_dominante": "blanc",
     "couleurs_autres": "",
     "type": "haut",
-    "quantite": "",
+    "quantite": 1,
     "lieu": "BCHA3"
   },
   {
@@ -2097,7 +2097,7 @@ vetements = [
     "couleur_dominante": "blanc",
     "couleurs_autres": "",
     "type": "haut",
-    "quantite": "",
+    "quantite": 1,
     "lieu": "BCHA3"
   },
   {
@@ -2108,7 +2108,7 @@ vetements = [
     "couleur_dominante": "blanc",
     "couleurs_autres": "",
     "type": "haut",
-    "quantite": "",
+    "quantite": 1,
     "lieu": "BCHA3"
   },
   {
@@ -2119,7 +2119,7 @@ vetements = [
     "couleur_dominante": "blanc",
     "couleurs_autres": "",
     "type": "haut",
-    "quantite": "",
+    "quantite": 1,
     "lieu": "BCHA3"
   },
   {
@@ -2130,7 +2130,7 @@ vetements = [
     "couleur_dominante": "blanc",
     "couleurs_autres": "",
     "type": "haut",
-    "quantite": "",
+    "quantite": 1,
     "lieu": "BCHA3"
   },
   {
@@ -2141,7 +2141,7 @@ vetements = [
     "couleur_dominante": "blanc",
     "couleurs_autres": "",
     "type": "haut",
-    "quantite": "",
+    "quantite": 1,
     "lieu": "BCHA3"
   },
   {
@@ -2152,7 +2152,7 @@ vetements = [
     "couleur_dominante": "blanc",
     "couleurs_autres": "",
     "type": "haut",
-    "quantite": "",
+    "quantite": 1,
     "lieu": "BCHA3"
   },
   {
@@ -2163,7 +2163,7 @@ vetements = [
     "couleur_dominante": "blanc",
     "couleurs_autres": "",
     "type": "haut",
-    "quantite": "",
+    "quantite": 1,
     "lieu": "BCHA3"
   },
   {
@@ -2174,7 +2174,7 @@ vetements = [
     "couleur_dominante": "blanc",
     "couleurs_autres": "",
     "type": "haut",
-    "quantite": "",
+    "quantite": 1,
     "lieu": "BCHA3"
   },
   {
@@ -2185,7 +2185,7 @@ vetements = [
     "couleur_dominante": "blanc",
     "couleurs_autres": "",
     "type": "haut",
-    "quantite": "",
+    "quantite": 1,
     "lieu": "BCHA4"
   },
   {
@@ -2196,7 +2196,7 @@ vetements = [
     "couleur_dominante": "blanc",
     "couleurs_autres": "",
     "type": "haut",
-    "quantite": "",
+    "quantite": 1,
     "lieu": "BCHA4"
   },
   {
@@ -2207,7 +2207,7 @@ vetements = [
     "couleur_dominante": "blanc",
     "couleurs_autres": "",
     "type": "haut",
-    "quantite": "",
+    "quantite": 1,
     "lieu": "BCHA4"
   },
   {
@@ -2218,7 +2218,7 @@ vetements = [
     "couleur_dominante": "blanc",
     "couleurs_autres": "",
     "type": "haut",
-    "quantite": "",
+    "quantite": 1,
     "lieu": "BCHA4"
   },
   {
@@ -2229,7 +2229,7 @@ vetements = [
     "couleur_dominante": "blanc",
     "couleurs_autres": "",
     "type": "haut",
-    "quantite": "",
+    "quantite": 1,
     "lieu": "BCHA4"
   },
   {
@@ -2240,7 +2240,7 @@ vetements = [
     "couleur_dominante": "blanc",
     "couleurs_autres": "",
     "type": "haut",
-    "quantite": "",
+    "quantite": 1,
     "lieu": "BCHA4"
   },
   {
@@ -2251,7 +2251,7 @@ vetements = [
     "couleur_dominante": "blanc",
     "couleurs_autres": "",
     "type": "haut",
-    "quantite": "",
+    "quantite": 1,
     "lieu": "BCHA4"
   },
   {
@@ -2262,7 +2262,7 @@ vetements = [
     "couleur_dominante": "blanc",
     "couleurs_autres": "",
     "type": "haut",
-    "quantite": "",
+    "quantite": 1,
     "lieu": "BCHA4"
   },
   {
@@ -2273,7 +2273,7 @@ vetements = [
     "couleur_dominante": "blanc",
     "couleurs_autres": "",
     "type": "haut",
-    "quantite": "",
+    "quantite": 1,
     "lieu": "BCHA4"
   },
   {
@@ -2284,7 +2284,7 @@ vetements = [
     "couleur_dominante": "blanc",
     "couleurs_autres": "",
     "type": "haut",
-    "quantite": "",
+    "quantite": 1,
     "lieu": "BCHA4"
   },
   {
@@ -2295,7 +2295,7 @@ vetements = [
     "couleur_dominante": "blanc",
     "couleurs_autres": "",
     "type": "haut",
-    "quantite": "",
+    "quantite": 1,
     "lieu": "BCHA4"
   },
   {
@@ -2306,7 +2306,7 @@ vetements = [
     "couleur_dominante": "blanc",
     "couleurs_autres": "",
     "type": "haut",
-    "quantite": "",
+    "quantite": 1,
     "lieu": "BCHA4"
   },
   {
@@ -2317,7 +2317,7 @@ vetements = [
     "couleur_dominante": "blanc",
     "couleurs_autres": "",
     "type": "haut",
-    "quantite": "",
+    "quantite": 1,
     "lieu": "BCHA4"
   },
   {
@@ -2328,7 +2328,7 @@ vetements = [
     "couleur_dominante": "blanc",
     "couleurs_autres": "",
     "type": "haut",
-    "quantite": "",
+    "quantite": 1,
     "lieu": "BCHA4"
   },
   {
@@ -2339,7 +2339,7 @@ vetements = [
     "couleur_dominante": "blanc",
     "couleurs_autres": "",
     "type": "haut",
-    "quantite": "",
+    "quantite": 1,
     "lieu": "BCHA4"
   },
   {
@@ -2350,7 +2350,7 @@ vetements = [
     "couleur_dominante": "blanc",
     "couleurs_autres": "",
     "type": "haut",
-    "quantite": "",
+    "quantite": 1,
     "lieu": "BCHA4"
   },
   {
@@ -2361,7 +2361,623 @@ vetements = [
     "couleur_dominante": "blanc",
     "couleurs_autres": "",
     "type": "haut",
-    "quantite": "",
+    "quantite": 1,
     "lieu": "BCHA4"
+  },
+  {
+    "id": 215,
+    "réf": "VET215",
+    "nomDuCostume": "veste sans manche marron et dos kaki homme",
+    "epoque": "",
+    "couleur_dominante": "marron",
+    "couleurs_autres": "vert",
+    "type": "haut",
+    "quantite": 1,
+    "lieu": "BCHA4"
+  },
+  {
+    "id": 216,
+    "réf": "VET216",
+    "nomDuCostume": "veste sans manche marron foncé et dos noir homme ( ou femme?)",
+    "epoque": "",
+    "couleur_dominante": "marron",
+    "couleurs_autres": "",
+    "type": "haut",
+    "quantite": 1,
+    "lieu": "BCHA4"
+  },
+  {
+    "id": 217,
+    "réf": "VET217",
+    "nomDuCostume": "veste sans manche velours côtelé marron clair homme",
+    "epoque": "",
+    "couleur_dominante": "marron",
+    "couleurs_autres": "",
+    "type": "haut",
+    "quantite": 1,
+    "lieu": "BCHA4"
+  },
+  {
+    "id": 218,
+    "réf": "VET218",
+    "nomDuCostume": "jupe noir imperméable",
+    "epoque": "",
+    "couleur_dominante": "noir",
+    "couleurs_autres": "",
+    "type": "jupe",
+    "quantite": 1,
+    "lieu": "BJU5"
+  },
+  {
+    "id": 219,
+    "réf": "VET219",
+    "nomDuCostume": "veste de costume homme noir taille 56",
+    "epoque": "",
+    "couleur_dominante": "noir",
+    "couleurs_autres": "",
+    "type": "veste",
+    "quantite": 1,
+    "lieu": "S510 – P1"
+  },
+  {
+    "id": 220,
+    "réf": "VET220",
+    "nomDuCostume": "robe rouge et blanche spectacle",
+    "epoque": "",
+    "couleur_dominante": "rouge",
+    "couleurs_autres": "blanc",
+    "type": "robe",
+    "quantite": 1,
+    "lieu": "S510 – P1"
+  },
+  {
+    "id": 221,
+    "réf": "VET221",
+    "nomDuCostume": "haut noir brodé en dentelle avec un jabot noir et argenté",
+    "epoque": "",
+    "couleur_dominante": "noir",
+    "couleurs_autres": "blanc",
+    "type": "haut",
+    "quantite": 1,
+    "lieu": "S510 – P1"
+  },
+  {
+    "id": 222,
+    "réf": "VET222",
+    "nomDuCostume": "chemise blanche longue avec veste bleue",
+    "epoque": "",
+    "couleur_dominante": "bleu",
+    "couleurs_autres": "blanc",
+    "type": "haut",
+    "quantite": 1,
+    "lieu": "S510 – P1"
+  },
+  {
+    "id": 223,
+    "réf": "VET223",
+    "nomDuCostume": "jupe salopette verte et noir tartan",
+    "epoque": "",
+    "couleur_dominante": "vert",
+    "couleurs_autres": "noir",
+    "type": "jupe",
+    "quantite": 3,
+    "lieu": "S510 – P1"
+  },
+  {
+    "id": 224,
+    "réf": "VET224",
+    "nomDuCostume": "jupe salopette blanche et noir tartan",
+    "epoque": "",
+    "couleur_dominante": "gris",
+    "couleurs_autres": "",
+    "type": "jupe",
+    "quantite": 1,
+    "lieu": "S510 – P1"
+  },
+  {
+    "id": 225,
+    "réf": "VET225",
+    "nomDuCostume": "uniforme de soldat 14/18",
+    "epoque": "",
+    "couleur_dominante": "bleu",
+    "couleurs_autres": "rouge blanc",
+    "type": "uniforme",
+    "quantite": 1,
+    "lieu": "S510 – P1"
+  },
+  {
+    "id": 226,
+    "réf": "VET226",
+    "nomDuCostume": "cape noir avec capuche",
+    "epoque": "",
+    "couleur_dominante": "noir",
+    "couleurs_autres": "",
+    "type": "cape",
+    "quantite": 1,
+    "lieu": "S510 – P1"
+  },
+  {
+    "id": 227,
+    "réf": "VET227",
+    "nomDuCostume": "ensemble jupe + haut jaune à pois noir",
+    "epoque": "",
+    "couleur_dominante": "jaune",
+    "couleurs_autres": "noir",
+    "type": "tenue",
+    "quantite": 1,
+    "lieu": "S510 – P1"
+  },
+  {
+    "id": 228,
+    "réf": "VET228",
+    "nomDuCostume": "ensemble jupe marron clair quadrillé + haut vert avec jabot",
+    "epoque": "",
+    "couleur_dominante": "vert",
+    "couleurs_autres": "marron",
+    "type": "tenue",
+    "quantite": 1,
+    "lieu": "S510 – P1"
+  },
+  {
+    "id": 229,
+    "réf": "VET229",
+    "nomDuCostume": "blouse du docteur rochet blanche",
+    "epoque": "",
+    "couleur_dominante": "blanc",
+    "couleurs_autres": "noir",
+    "type": "tenue",
+    "quantite": 1,
+    "lieu": "S510 – P1"
+  },
+  {
+    "id": 230,
+    "réf": "VET230",
+    "nomDuCostume": "ensemble jupe a rayures beige + haut bleu et blanc",
+    "epoque": "",
+    "couleur_dominante": "bleu",
+    "couleurs_autres": "blanc",
+    "type": "tenue",
+    "quantite": 1,
+    "lieu": "S510 – P1"
+  },
+  {
+    "id": 231,
+    "réf": "VET231",
+    "nomDuCostume": "Ensemble jupe + haut à carreaux",
+    "epoque": "",
+    "couleur_dominante": "blanc",
+    "couleurs_autres": "orange",
+    "type": "tenue",
+    "quantite": 1,
+    "lieu": "S510 – P1"
+  },
+  {
+    "id": 232,
+    "réf": "VET232",
+    "nomDuCostume": "Ensemble jupe + haut rose",
+    "epoque": "",
+    "couleur_dominante": "rose",
+    "couleurs_autres": "",
+    "type": "tenue",
+    "quantite": 1,
+    "lieu": "S510 – P1"
+  },
+  {
+    "id": 233,
+    "réf": "VET233",
+    "nomDuCostume": "Ensemble jupe + haut vert",
+    "epoque": "",
+    "couleur_dominante": "vert",
+    "couleurs_autres": "",
+    "type": "tenue",
+    "quantite": 1,
+    "lieu": "S510 – P1"
+  },
+  {
+    "id": 234,
+    "réf": "VET234",
+    "nomDuCostume": "Ensemble jupe + haut violet",
+    "epoque": "",
+    "couleur_dominante": "violet",
+    "couleurs_autres": "",
+    "type": "tenue",
+    "quantite": 1,
+    "lieu": "S510 – P1"
+  },
+  {
+    "id": 235,
+    "réf": "VET235",
+    "nomDuCostume": "Ensemble jupe + haut rose saumon",
+    "epoque": "",
+    "couleur_dominante": "orange",
+    "couleurs_autres": "",
+    "type": "tenue",
+    "quantite": 1,
+    "lieu": "S510 – P1"
+  },
+  {
+    "id": 236,
+    "réf": "VET236",
+    "nomDuCostume": "Robe violet violet fuchsia a paillette",
+    "epoque": "",
+    "couleur_dominante": "violet",
+    "couleurs_autres": "",
+    "type": "robe",
+    "quantite": 1,
+    "lieu": "S510 – P1"
+  },
+  {
+    "id": 237,
+    "réf": "VET237",
+    "nomDuCostume": "Ensemble jupe + veste bleu et motif rouge",
+    "epoque": "",
+    "couleur_dominante": "bleu",
+    "couleurs_autres": "rouge",
+    "type": "tenue",
+    "quantite": 1,
+    "lieu": "S510 – P1"
+  },
+  {
+    "id": 238,
+    "réf": "VET238",
+    "nomDuCostume": "Ensemble veste + jupe rose",
+    "epoque": "",
+    "couleur_dominante": "rose",
+    "couleurs_autres": "",
+    "type": "tenue",
+    "quantite": 1,
+    "lieu": "S510 – P1"
+  },
+  {
+    "id": 239,
+    "réf": "VET239",
+    "nomDuCostume": "Ensemble militaire",
+    "epoque": "",
+    "couleur_dominante": "marron",
+    "couleurs_autres": "",
+    "type": "tenue",
+    "quantite": 1,
+    "lieu": "S510 – P1"
+  },
+  {
+    "id": 240,
+    "réf": "VET240",
+    "nomDuCostume": "veste bleu a boutons blancs",
+    "epoque": "",
+    "couleur_dominante": "bleu",
+    "couleurs_autres": "blanc",
+    "type": "veste",
+    "quantite": 1,
+    "lieu": "S510 – P1"
+  },
+  {
+    "id": 241,
+    "réf": "VET241",
+    "nomDuCostume": "veste blanche et grise",
+    "epoque": "",
+    "couleur_dominante": "noir",
+    "couleurs_autres": "blanc",
+    "type": "veste",
+    "quantite": 1,
+    "lieu": "S510 – P1"
+  },
+  {
+    "id": 242,
+    "réf": "VET242",
+    "nomDuCostume": "Robe blanche à point noir",
+    "epoque": "",
+    "couleur_dominante": "blanc",
+    "couleurs_autres": "noir",
+    "type": "robe",
+    "quantite": 1,
+    "lieu": "S510 – P1"
+  },
+  {
+    "id": 243,
+    "réf": "VET243",
+    "nomDuCostume": "Ensemble costume veste + pantalon bleu",
+    "epoque": "",
+    "couleur_dominante": "bleu",
+    "couleurs_autres": "gris",
+    "type": "tenue",
+    "quantite": 1,
+    "lieu": "S510 – P1"
+  },
+  {
+    "id": 244,
+    "réf": "VET244",
+    "nomDuCostume": "veste bleu",
+    "epoque": "",
+    "couleur_dominante": "bleu",
+    "couleurs_autres": "",
+    "type": "veste",
+    "quantite": 1,
+    "lieu": "S510 – P1"
+  },
+  {
+    "id": 245,
+    "réf": "VET245",
+    "nomDuCostume": "tenue de prisonnier a rayure noir et blanc",
+    "epoque": "",
+    "couleur_dominante": "blanc",
+    "couleurs_autres": "noir",
+    "type": "tenue",
+    "quantite": 1,
+    "lieu": "S510 – P1"
+  },
+  {
+    "id": 246,
+    "réf": "VET246",
+    "nomDuCostume": "Veste bleu et beige",
+    "epoque": "",
+    "couleur_dominante": "bleu",
+    "couleurs_autres": "beige",
+    "type": "veste",
+    "quantite": 1,
+    "lieu": "S510 – P1"
+  },
+  {
+    "id": 247,
+    "réf": "VET247",
+    "nomDuCostume": "Veste bleu",
+    "epoque": "",
+    "couleur_dominante": "bleu",
+    "couleurs_autres": "",
+    "type": "veste",
+    "quantite": 1,
+    "lieu": "S510 – P1"
+  },
+  {
+    "id": 248,
+    "réf": "VET248",
+    "nomDuCostume": "Veste à motif noir et blanc",
+    "epoque": "",
+    "couleur_dominante": "noir",
+    "couleurs_autres": "blanc",
+    "type": "veste",
+    "quantite": 1,
+    "lieu": "S510 – P1"
+  },
+  {
+    "id": 249,
+    "réf": "VET249",
+    "nomDuCostume": "Veste bleu a boutons gris",
+    "epoque": "",
+    "couleur_dominante": "bleu",
+    "couleurs_autres": "gris",
+    "type": "veste",
+    "quantite": 1,
+    "lieu": "S510 – P1"
+  },
+  {
+    "id": 250,
+    "réf": "VET250",
+    "nomDuCostume": "Veste noir à boutons personnalisé",
+    "epoque": "",
+    "couleur_dominante": "noir",
+    "couleurs_autres": "or",
+    "type": "veste",
+    "quantite": 1,
+    "lieu": "S510 – P1"
+  },
+  {
+    "id": 251,
+    "réf": "VET251",
+    "nomDuCostume": "Blouson / Manteau imperméable noir",
+    "epoque": "",
+    "couleur_dominante": "noir",
+    "couleurs_autres": "",
+    "type": "veste",
+    "quantite": 1,
+    "lieu": "S510 – P1"
+  },
+  {
+    "id": 252,
+    "réf": "VET252",
+    "nomDuCostume": "Manteau bleu élégant",
+    "epoque": "",
+    "couleur_dominante": "bleu",
+    "couleurs_autres": "",
+    "type": "veste",
+    "quantite": 1,
+    "lieu": "S510 – P1"
+  },
+  {
+    "id": 253,
+    "réf": "VET253",
+    "nomDuCostume": "veste noir et or",
+    "epoque": "",
+    "couleur_dominante": "noir",
+    "couleurs_autres": "",
+    "type": "veste",
+    "quantite": 1,
+    "lieu": "S510 – P1"
+  },
+  {
+    "id": 254,
+    "réf": "VET254",
+    "nomDuCostume": "Robe + veste blanche à motif + or",
+    "epoque": "",
+    "couleur_dominante": "blanc",
+    "couleurs_autres": "rose",
+    "type": "tenue",
+    "quantite": 1,
+    "lieu": "S510 – P1"
+  },
+  {
+    "id": 255,
+    "réf": "VET255",
+    "nomDuCostume": "Robe + veste à motif rose",
+    "epoque": "",
+    "couleur_dominante": "rose",
+    "couleurs_autres": "",
+    "type": "tenue",
+    "quantite": 1,
+    "lieu": "S510 – P1"
+  },
+  {
+    "id": 256,
+    "réf": "VET256",
+    "nomDuCostume": "veste noir",
+    "epoque": "",
+    "couleur_dominante": "noir",
+    "couleurs_autres": "",
+    "type": "veste",
+    "quantite": 1,
+    "lieu": "S510 – P1"
+  },
+  {
+    "id": 257,
+    "réf": "VET257",
+    "nomDuCostume": "Veste bleu avec mouchoir",
+    "epoque": "",
+    "couleur_dominante": "bleu",
+    "couleurs_autres": "noir blanc or",
+    "type": "veste",
+    "quantite": 1,
+    "lieu": "S510 – P1"
+  },
+  {
+    "id": 258,
+    "réf": "VET258",
+    "nomDuCostume": "Manteau court en fourrure",
+    "epoque": "",
+    "couleur_dominante": "marron",
+    "couleurs_autres": "",
+    "type": "veste",
+    "quantite": 1,
+    "lieu": "S510 – P1"
+  },
+  {
+    "id": 259,
+    "réf": "VET259",
+    "nomDuCostume": "Veste noir",
+    "epoque": "",
+    "couleur_dominante": "noir",
+    "couleurs_autres": "",
+    "type": "veste",
+    "quantite": 1,
+    "lieu": "S510 – P1"
+  },
+  {
+    "id": 260,
+    "réf": "VET260",
+    "nomDuCostume": "Manteau gris",
+    "epoque": "",
+    "couleur_dominante": "gris",
+    "couleurs_autres": "",
+    "type": "veste",
+    "quantite": 1,
+    "lieu": "S510 – P1"
+  },
+  {
+    "id": 261,
+    "réf": "VET261",
+    "nomDuCostume": "Veste grise sans manche",
+    "epoque": "",
+    "couleur_dominante": "gris",
+    "couleurs_autres": "",
+    "type": "veste",
+    "quantite": 1,
+    "lieu": "S510 – P1"
+  },
+  {
+    "id": 262,
+    "réf": "VET262",
+    "nomDuCostume": "Veste costume bleu",
+    "epoque": "",
+    "couleur_dominante": "bleu",
+    "couleurs_autres": "",
+    "type": "veste",
+    "quantite": 1,
+    "lieu": "S510 – P1"
+  },
+  {
+    "id": 263,
+    "réf": "VET263",
+    "nomDuCostume": "Uniforme bleu avec gros bouton or",
+    "epoque": "",
+    "couleur_dominante": "bleu",
+    "couleurs_autres": "or",
+    "type": "tenue",
+    "quantite": 1,
+    "lieu": "S510 – P1"
+  },
+  {
+    "id": 264,
+    "réf": "VET264",
+    "nomDuCostume": "veste noir",
+    "epoque": "",
+    "couleur_dominante": "noir",
+    "couleurs_autres": "",
+    "type": "veste",
+    "quantite": 1,
+    "lieu": "S510 – P1"
+  },
+  {
+    "id": 265,
+    "réf": "VET265",
+    "nomDuCostume": "veste costume noir",
+    "epoque": "",
+    "couleur_dominante": "noir",
+    "couleurs_autres": "",
+    "type": "veste",
+    "quantite": 1,
+    "lieu": "S510 – P1"
+  },
+  {
+    "id": 266,
+    "réf": "VET266",
+    "nomDuCostume": "Robe noir et blanche + par dessus noir a motif",
+    "epoque": "",
+    "couleur_dominante": "noir",
+    "couleurs_autres": "blanc",
+    "type": "tenue",
+    "quantite": 1,
+    "lieu": "S510 – P1"
+  },
+  {
+    "id": 267,
+    "réf": "VET267",
+    "nomDuCostume": "manteau noir",
+    "epoque": "",
+    "couleur_dominante": "noir",
+    "couleurs_autres": "",
+    "type": "veste",
+    "quantite": 1,
+    "lieu": "S510 – P1"
+  },
+  {
+    "id": 268,
+    "réf": "VET268",
+    "nomDuCostume": "Manteau bleu",
+    "epoque": "",
+    "couleur_dominante": "bleu",
+    "couleurs_autres": "",
+    "type": "veste",
+    "quantite": 1,
+    "lieu": "S510 – P1"
+  },
+  {
+    "id": 269,
+    "réf": "VET269",
+    "nomDuCostume": "Haut blanc dentelle noire",
+    "epoque": "",
+    "couleur_dominante": "blanc",
+    "couleurs_autres": "noir",
+    "type": "veste",
+    "quantite": 1,
+    "lieu": "S510 – P1"
+  },
+  {
+    "id": 270,
+    "réf": "VET270",
+    "nomDuCostume": "Haut transparent blanc et dorée",
+    "epoque": "",
+    "couleur_dominante": "blanc",
+    "couleurs_autres": "or",
+    "type": "haut",
+    "quantite": 1,
+    "lieu": "S510 – P1"
   }
 ]

@@ -152,7 +152,7 @@ cartons = [
   {
     "reference": "BCHA4",
     "salle": "S510",
-    "nombre": 17,
+    "nombre": 20,
     "type": "vetement"
   },
   {
@@ -201,6 +201,12 @@ cartons = [
     "reference": "BTEN1",
     "salle": "S510",
     "nombre": 9,
+    "type": "vetement"
+  },
+  {
+    "reference": "S510 � P1",
+    "salle": "S510",
+    "nombre": 54,
     "type": "vetement"
   }
 ]
